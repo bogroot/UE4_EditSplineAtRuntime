@@ -1,0 +1,1102 @@
+﻿Log file open, 04/30/19 16:24:04
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: EditSplineAtRuntime
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 26 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.287042
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.061s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = true  - Libcurl will use HTTP proxy
+LogInit:  - HttpProxyAddress = '127.0.0.1:1080'
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-9700K CPU @ 3.60GHz, GPU: NVIDIA GeForce RTX 2080 Ti
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: E:/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.04.30-08.24.04:334][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.04.30-08.24.04:334][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.04.30-08.24.04:334][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/UnrealProjects/EditSplineAtRuntime/Saved/Config/Windows/Engine.ini]
+[2019.04.30-08.24.04:334][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.04.30-08.24.04:334][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/UnrealProjects/EditSplineAtRuntime/Saved/Config/Windows/Engine.ini]
+[2019.04.30-08.24.04:334][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/UnrealProjects/EditSplineAtRuntime/Saved/Config/Windows/Engine.ini]
+[2019.04.30-08.24.04:334][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.04.30-08.24.04:334][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.04.30-08.24.04:334][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.04.30-08.24.04:334][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.04.30-08.24.04:334][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.04.30-08.24.04:334][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.04.30-08.24.04:334][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.04.30-08.24.04:334][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.04.30-08.24.04:334][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.04.30-08.24.04:334][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.04.30-08.24.04:334][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.04.30-08.24.04:334][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.04.30-08.24.04:334][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.04.30-08.24.04:334][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/UnrealProjects/EditSplineAtRuntime/Saved/Config/Windows/Engine.ini]
+[2019.04.30-08.24.04:334][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.04.30-08.24.04:334][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.04.30-08.24.04:334][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.04.30-08.24.04:334][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.04.30-08.24.04:334][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.04.30-08.24.04:334][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.04.30-08.24.04:334][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.04.30-08.24.04:334][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.04.30-08.24.04:334][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.04.30-08.24.04:334][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.04.30-08.24.04:334][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.04.30-08.24.04:334][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.04.30-08.24.04:334][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.04.30-08.24.04:334][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.04.30-08.24.04:334][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/UnrealProjects/EditSplineAtRuntime/Saved/Config/Windows/Engine.ini]
+[2019.04.30-08.24.04:334][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/UnrealProjects/EditSplineAtRuntime/Saved/Config/Windows/Engine.ini]
+[2019.04.30-08.24.04:341][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/UnrealProjects/EditSplineAtRuntime/Saved/Config/Windows/Scalability.ini]
+[2019.04.30-08.24.04:341][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.04.30-08.24.04:341][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.04.30-08.24.04:341][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/UnrealProjects/EditSplineAtRuntime/Saved/Config/Windows/Scalability.ini]
+[2019.04.30-08.24.04:341][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.04.30-08.24.04:341][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/UnrealProjects/EditSplineAtRuntime/Saved/Config/Windows/Scalability.ini]
+[2019.04.30-08.24.04:341][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.04.30-08.24.04:341][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.04.30-08.24.04:341][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.04.30-08.24.04:341][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.04.30-08.24.04:341][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.04.30-08.24.04:341][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.04.30-08.24.04:341][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.04.30-08.24.04:341][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.04.30-08.24.04:341][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.04.30-08.24.04:341][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.04.30-08.24.04:341][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.04.30-08.24.04:341][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.04.30-08.24.04:341][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.04.30-08.24.04:341][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.04.30-08.24.04:341][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.04.30-08.24.04:341][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.04.30-08.24.04:341][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.04.30-08.24.04:341][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.04.30-08.24.04:341][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/UnrealProjects/EditSplineAtRuntime/Saved/Config/Windows/Scalability.ini]
+[2019.04.30-08.24.04:341][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.04.30-08.24.04:341][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.04.30-08.24.04:341][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.04.30-08.24.04:341][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.04.30-08.24.04:341][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.04.30-08.24.04:341][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.04.30-08.24.04:341][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.04.30-08.24.04:341][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.04.30-08.24.04:341][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.04.30-08.24.04:341][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.04.30-08.24.04:341][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.04.30-08.24.04:341][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.04.30-08.24.04:341][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.04.30-08.24.04:341][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.04.30-08.24.04:341][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.04.30-08.24.04:341][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.04.30-08.24.04:341][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.04.30-08.24.04:341][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.04.30-08.24.04:341][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.04.30-08.24.04:341][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.04.30-08.24.04:341][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.04.30-08.24.04:341][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.04.30-08.24.04:341][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.04.30-08.24.04:341][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.04.30-08.24.04:341][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.04.30-08.24.04:341][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.04.30-08.24.04:341][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.04.30-08.24.04:341][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.04.30-08.24.04:341][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.04.30-08.24.04:341][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.04.30-08.24.04:341][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/UnrealProjects/EditSplineAtRuntime/Saved/Config/Windows/Scalability.ini]
+[2019.04.30-08.24.04:341][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.04.30-08.24.04:341][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.04.30-08.24.04:341][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.04.30-08.24.04:341][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.04.30-08.24.04:341][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.04.30-08.24.04:341][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.04.30-08.24.04:341][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.04.30-08.24.04:341][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.04.30-08.24.04:341][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/UnrealProjects/EditSplineAtRuntime/Saved/Config/Windows/Scalability.ini]
+[2019.04.30-08.24.04:341][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.04.30-08.24.04:341][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.04.30-08.24.04:341][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.04.30-08.24.04:341][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.04.30-08.24.04:341][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.04.30-08.24.04:341][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.04.30-08.24.04:342][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.04.30-08.24.04:342][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.04.30-08.24.04:342][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.04.30-08.24.04:342][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.04.30-08.24.04:342][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.04.30-08.24.04:342][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.04.30-08.24.04:342][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.04.30-08.24.04:342][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/UnrealProjects/EditSplineAtRuntime/Saved/Config/Windows/Scalability.ini]
+[2019.04.30-08.24.04:342][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.04.30-08.24.04:342][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.04.30-08.24.04:342][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.30-08.24.04:342][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.04.30-08.24.04:347][  0]LogHAL: Display: Platform has ~ 32 GB [34169790464 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.04.30-08.24.04:347][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.04.30-08.24.04:347][  0]LogInit: Going up to parent DeviceProfile []
+[2019.04.30-08.24.04:347][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/UnrealProjects/EditSplineAtRuntime/Saved/Config/Windows/Scalability.ini]
+[2019.04.30-08.24.04:347][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.04.30-08.24.04:347][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.04.30-08.24.04:347][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/UnrealProjects/EditSplineAtRuntime/Saved/Config/Windows/Scalability.ini]
+[2019.04.30-08.24.04:347][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.04.30-08.24.04:347][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/UnrealProjects/EditSplineAtRuntime/Saved/Config/Windows/Scalability.ini]
+[2019.04.30-08.24.04:347][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.04.30-08.24.04:347][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.04.30-08.24.04:347][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.04.30-08.24.04:347][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.04.30-08.24.04:347][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.04.30-08.24.04:347][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.04.30-08.24.04:347][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.04.30-08.24.04:347][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.04.30-08.24.04:347][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.04.30-08.24.04:347][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.04.30-08.24.04:347][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.04.30-08.24.04:347][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.04.30-08.24.04:347][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.04.30-08.24.04:347][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.04.30-08.24.04:347][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.04.30-08.24.04:347][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.04.30-08.24.04:347][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.04.30-08.24.04:348][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.04.30-08.24.04:348][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/UnrealProjects/EditSplineAtRuntime/Saved/Config/Windows/Scalability.ini]
+[2019.04.30-08.24.04:348][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.04.30-08.24.04:348][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.04.30-08.24.04:348][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.04.30-08.24.04:348][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.04.30-08.24.04:348][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.04.30-08.24.04:348][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.04.30-08.24.04:348][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.04.30-08.24.04:348][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.04.30-08.24.04:348][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.04.30-08.24.04:348][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.04.30-08.24.04:348][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.04.30-08.24.04:348][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.04.30-08.24.04:348][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.04.30-08.24.04:348][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.04.30-08.24.04:348][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.04.30-08.24.04:348][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.04.30-08.24.04:348][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.04.30-08.24.04:348][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.04.30-08.24.04:348][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.04.30-08.24.04:348][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.04.30-08.24.04:348][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.04.30-08.24.04:348][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.04.30-08.24.04:348][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.04.30-08.24.04:348][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.04.30-08.24.04:348][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.04.30-08.24.04:348][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.04.30-08.24.04:348][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.04.30-08.24.04:348][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.04.30-08.24.04:348][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.04.30-08.24.04:348][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.04.30-08.24.04:348][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/UnrealProjects/EditSplineAtRuntime/Saved/Config/Windows/Scalability.ini]
+[2019.04.30-08.24.04:348][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.04.30-08.24.04:348][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.04.30-08.24.04:348][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.04.30-08.24.04:348][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.04.30-08.24.04:348][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.04.30-08.24.04:348][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.04.30-08.24.04:348][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.04.30-08.24.04:348][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.04.30-08.24.04:348][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/UnrealProjects/EditSplineAtRuntime/Saved/Config/Windows/Scalability.ini]
+[2019.04.30-08.24.04:348][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.04.30-08.24.04:348][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.04.30-08.24.04:348][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.04.30-08.24.04:348][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.04.30-08.24.04:348][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.04.30-08.24.04:348][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.04.30-08.24.04:348][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.04.30-08.24.04:348][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.04.30-08.24.04:348][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.04.30-08.24.04:348][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.04.30-08.24.04:348][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.04.30-08.24.04:348][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.04.30-08.24.04:348][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.04.30-08.24.04:348][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/UnrealProjects/EditSplineAtRuntime/Saved/Config/Windows/Scalability.ini]
+[2019.04.30-08.24.04:348][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.04.30-08.24.04:348][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.04.30-08.24.04:348][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.04.30-08.24.04:348][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.04.30-08.24.04:348][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/UnrealProjects/EditSplineAtRuntime/Saved/Config/Windows/Engine.ini]
+[2019.04.30-08.24.04:348][  0]LogInit: Computer: W-20236
+[2019.04.30-08.24.04:348][  0]LogInit: User: UiseeEmulation
+[2019.04.30-08.24.04:348][  0]LogInit: CPU Page size=4096, Cores=8
+[2019.04.30-08.24.04:348][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.04.30-08.24.04:349][  0]LogMemory: Memory total: Physical=31.8GB (32GB approx)
+[2019.04.30-08.24.04:349][  0]LogMemory: Platform Memory Stats for Windows
+[2019.04.30-08.24.04:349][  0]LogMemory: Process Physical Memory: 103.16 MB used, 103.16 MB peak
+[2019.04.30-08.24.04:349][  0]LogMemory: Process Virtual Memory: 91.89 MB used, 91.89 MB peak
+[2019.04.30-08.24.04:349][  0]LogMemory: Physical Memory: 13418.73 MB used,  19168.12 MB free, 32586.85 MB total
+[2019.04.30-08.24.04:349][  0]LogMemory: Virtual Memory: 4654.72 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2019.04.30-08.24.04:397][  0]LogInit: Overriding language with editor language configuration option (en).
+[2019.04.30-08.24.04:397][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2019.04.30-08.24.04:669][  0]LogStreaming: Display: Took  0.272s to InitEngineTextLocalization.
+[2019.04.30-08.24.04:669][  0]LogInit: Setting process to per monitor DPI aware
+[2019.04.30-08.24.04:723][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.04.30-08.24.04:723][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.04.30-08.24.04:873][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.30-08.24.04:873][  0]LogD3D11RHI: D3D11 adapters:
+[2019.04.30-08.24.04:932][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2080 Ti' (Feature Level 11_0)
+[2019.04.30-08.24.04:932][  0]LogD3D11RHI:       11049/0/16293 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.04.30-08.24.04:956][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2019.04.30-08.24.04:957][  0]LogD3D11RHI:       128/0/16293 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.04.30-08.24.04:958][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.04.30-08.24.04:958][  0]LogD3D11RHI:       0/0/16293 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.04.30-08.24.04:958][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.04.30-08.24.04:965][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.04.30-08.24.04:965][  0]LogD3D11RHI:     GPU DeviceId: 0x1e04 (for the marketing name, search the web for "GPU Device Id")
+[2019.04.30-08.24.04:965][  0]LogWindows: EnumDisplayDevices:
+[2019.04.30-08.24.04:966][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2080 Ti' (P:0 D:1)
+[2019.04.30-08.24.04:966][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2080 Ti' (P:1 D:1)
+[2019.04.30-08.24.04:966][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2080 Ti' (P:0 D:0)
+[2019.04.30-08.24.04:966][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2080 Ti' (P:0 D:0)
+[2019.04.30-08.24.04:966][  0]LogWindows:    4. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.04.30-08.24.04:966][  0]LogWindows:    5. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.04.30-08.24.04:967][  0]LogWindows:    6. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.04.30-08.24.04:967][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.04.30-08.24.04:967][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2080 Ti
+[2019.04.30-08.24.04:967][  0]LogD3D11RHI:   Driver Version: 419.17 (internal:25.21.14.1917, unified:419.17)
+[2019.04.30-08.24.04:967][  0]LogD3D11RHI:      Driver Date: 2-20-2019
+[2019.04.30-08.24.04:967][  0]LogRHI: Texture pool is 7734 MB (70% of 11049 MB)
+[2019.04.30-08.24.05:004][  0]LogD3D11RHI: Async texture creation enabled
+[2019.04.30-08.24.05:017][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.04.30-08.24.05:332][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.04.30-08.24.05:342][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.04.30-08.24.05:351][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.04.30-08.24.05:360][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.04.30-08.24.05:369][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.04.30-08.24.05:377][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.04.30-08.24.05:386][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.04.30-08.24.05:395][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.04.30-08.24.05:399][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.04.30-08.24.05:451][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.30-08.24.05:451][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.30-08.24.05:451][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.30-08.24.05:451][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.30-08.24.05:451][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.30-08.24.05:451][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.30-08.24.05:451][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.30-08.24.05:451][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.30-08.24.05:451][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.30-08.24.05:451][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.30-08.24.05:451][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.30-08.24.05:451][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.30-08.24.05:451][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.30-08.24.05:451][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.30-08.24.05:451][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.30-08.24.05:451][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.30-08.24.05:451][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.30-08.24.05:451][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.30-08.24.05:452][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.04.30-08.24.05:504][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.04.30-08.24.05:504][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.04.30-08.24.05:520][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.04.30-08.24.05:520][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.04.30-08.24.05:528][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.04.30-08.24.05:539][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.04.30-08.24.05:548][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.04.30-08.24.05:556][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.04.30-08.24.05:588][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.04.30-08.24.05:588][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.04.30-08.24.05:588][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.04.30-08.24.05:617][  0]LogShaderCompilers: Guid format shader working directory is 17 characters bigger than the processId version (D:/UnrealProjects/EditSplineAtRuntime/Intermediate/Shaders/WorkingDirectory/17884/).
+[2019.04.30-08.24.05:617][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/UiseeEmulation/AppData/Local/Temp/UnrealShaderWorkingDir/9F8D53274C6DC6612EC483B14B0645C2/'.
+[2019.04.30-08.24.05:618][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.04.30-08.24.05:618][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.04.30-08.24.05:618][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.04.30-08.24.06:023][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.04.30-08.24.06:062][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/UiseeEmulation/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.04.30-08.24.06:062][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/UiseeEmulation/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.04.30-08.24.06:063][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/UnrealProjects/EditSplineAtRuntime/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.04.30-08.24.06:063][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.04.30-08.24.06:063][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/UnrealProjects/EditSplineAtRuntime/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.04.30-08.24.06:063][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.04.30-08.24.06:074][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.04.30-08.24.06:074][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.04.30-08.24.06:074][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.04.30-08.24.06:086][  0]LogDerivedDataCache: Using Local data cache path C:/Users/UiseeEmulation/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.04.30-08.24.06:086][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.04.30-08.24.06:086][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.04.30-08.24.06:103][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.04.30-08.24.06:104][  0]LogSlate: Using FreeType 2.6.0
+[2019.04.30-08.24.06:105][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.04.30-08.24.06:174][  0]LogAssetRegistry: FAssetRegistry took 0.0300 seconds to start up
+[2019.04.30-08.24.06:397][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.30-08.24.06:500][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.04.30-08.24.06:502][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.04.30-08.24.06:502][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.04.30-08.24.06:502][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.04.30-08.24.06:502][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.04.30-08.24.06:515][  0]LogNetVersion: EditSplineAtRuntime 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2796048924)
+[2019.04.30-08.24.06:831][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 1 prioritized culture(s) in 0.024888 seconds
+[2019.04.30-08.24.06:835][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.04.30-08.24.06:835][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.04.30-08.24.06:835][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.04.30-08.24.07:445][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.04.30-08.24.07:459][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.04.30-08.24.07:979][  0]SourceControl: Source control is disabled
+[2019.04.30-08.24.07:979][  0]SourceControl: Source control is disabled
+[2019.04.30-08.24.07:980][  0]SourceControl: Source control is disabled
+[2019.04.30-08.24.07:980][  0]SourceControl: Source control is disabled
+[2019.04.30-08.24.08:119][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.04.30-08.24.08:420][  0]LogOcInput: OculusInput pre-init called
+[2019.04.30-08.24.08:538][  0]LogEngine: Initializing Engine...
+[2019.04.30-08.24.08:538][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.30-08.24.08:539][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.04.30-08.24.08:539][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.30-08.24.08:539][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.04.30-08.24.08:539][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.30-08.24.08:709][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.04.30-08.24.08:715][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.04.30-08.24.08:747][  0]LogInit: XAudio2 using 'DELL U2518D (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.30-08.24.08:761][  0]LogInit: FAudioDevice initialized.
+[2019.04.30-08.24.08:762][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.04.30-08.24.08:803][  0]LogDerivedDataCache: Saved boot cache 0.04s 71MB C:/Users/UiseeEmulation/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.04.30-08.24.08:805][  0]LogInit: Texture streaming: Enabled
+[2019.04.30-08.24.08:816][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.04.30-08.24.08:816][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={AE0D211D-47F0-6977-CC53-E881BF7CB0ED}
+[2019.04.30-08.24.08:825][  0]LogInit: Transaction tracking system initialized
+[2019.04.30-08.24.08:836][  0]BlueprintLog: New page: Editor Load
+[2019.04.30-08.24.08:877][  0]LocalizationService: Localization service is disabled
+[2019.04.30-08.24.09:169][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProjects/EditSplineAtRuntime/Content/' took 0.01s
+[2019.04.30-08.24.09:169][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.04.30-08.24.09:169][  0]LogCook: Display: Mobile HDR setting 1
+[2019.04.30-08.24.09:169][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.04.30-08.24.09:169][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.04.30-08.24.09:169][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.30-08.24.09:169][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.04.30-08.24.09:169][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.30-08.24.09:238][  0]SourceControl: Source control is disabled
+[2019.04.30-08.24.09:238][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.30-08.24.09:239][  0]LightingResults: New page: Lighting Build
+[2019.04.30-08.24.09:240][  0]MapCheck: New page: Map Check
+[2019.04.30-08.24.09:240][  0]LightingResults: New page: Lighting Build
+[2019.04.30-08.24.09:357][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2019.04.30-08.24.09:362][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.30-08.24.09:381][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.30-08.24.09:381][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.127ms to complete.
+[2019.04.30-08.24.09:381][  0]LogFileHelpers: Loading map 'Template_Default' took 0.142
+[2019.04.30-08.24.09:457][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.30-08.24.09:462][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.30-08.24.09:467][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.30-08.24.09:471][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.30-08.24.09:479][  0]LogCollectionManager: Loaded 0 collections in 0.000684 seconds
+[2019.04.30-08.24.09:500][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProjects/EditSplineAtRuntime/Saved/Collections/' took 0.01s
+[2019.04.30-08.24.09:500][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProjects/EditSplineAtRuntime/Content/Developers/UiseeEmulation/Collections/' took 0.00s
+[2019.04.30-08.24.09:500][  0]LogFileCache: Scanning file cache for directory 'D:/UnrealProjects/EditSplineAtRuntime/Content/Collections/' took 0.00s
+[2019.04.30-08.24.09:500][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.04.30-08.24.09:511][  0]LogContentBrowser: Native class hierarchy populated in 0.0105 seconds. Added 2652 classes and 622 folders.
+[2019.04.30-08.24.09:515][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.04.30-08.24.09:516][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.30-08.24.09:517][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.30-08.24.09:517][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.30-08.24.09:518][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.30-08.24.09:518][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.30-08.24.09:518][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.30-08.24.09:518][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.30-08.24.09:519][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.30-08.24.09:519][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.30-08.24.09:519][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.30-08.24.09:520][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.30-08.24.09:520][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.30-08.24.09:520][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.30-08.24.09:521][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.30-08.24.09:521][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.30-08.24.09:521][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.30-08.24.09:522][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.30-08.24.09:522][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.30-08.24.09:522][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.30-08.24.09:523][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.30-08.24.09:523][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.30-08.24.09:523][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.30-08.24.09:524][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.30-08.24.09:524][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.30-08.24.09:524][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.30-08.24.09:525][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.30-08.24.09:547][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.04.30-08.24.09:591][  0]LogSlate: Took 0.000130 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.04.30-08.24.09:593][  0]LogSlate: Took 0.000101 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.04.30-08.24.09:595][  0]LogSlate: Took 0.000092 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.04.30-08.24.09:641][  0]LogRenderer: Reallocating scene render targets to support 1260x652 Format 10 NumSamples 1 (Frame:1).
+[2019.04.30-08.24.09:741][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.04.30-08.24.09:741][  0]LogLoad: (Engine Initialization) Total time: 6.68 seconds
+[2019.04.30-08.24.09:741][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.04.30-08.24.09:804][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.04.30-08.24.09:836][  1]LogAssetRegistry: Asset discovery search completed in 3.6843 seconds
+[2019.04.30-08.24.09:837][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.04.30-08.24.09:837][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000039 seconds (updated 0 objects)
+[2019.04.30-08.24.11:174][  5]LogSlate: Took 0.000140 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.30-08.24.15:213][ 18]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.30-08.24.16:439][118]LogBlueprint: Warning: [Compiler BP_EditSpline] Node  Set members in <unknown struct> . The node won't be pruned as isolated one. The node is not pure, but it has no exec pin(s). Verify IsNodePure implementation in K2Node Set Fields in Struct.
+[2019.04.30-08.24.16:439][118]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Struct Ref  no longer exists on node  Set members in <unknown struct> . Please refresh node or break links to remove pin.
+[2019.04.30-08.24.16:439][118]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Struct Out  no longer exists on node  Set members in <unknown struct> . Please refresh node or break links to remove pin.
+[2019.04.30-08.24.16:439][118]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Point Location  no longer exists on node  Set members in <unknown struct> . Please refresh node or break links to remove pin.
+[2019.04.30-08.24.16:439][118]LogBlueprint: Error: [Compiler BP_EditSpline] No Struct in  Set members in <unknown struct>
+[2019.04.30-08.24.16:439][118]LogBlueprint: Error: [Compiler BP_EditSpline] The  Struct Ref  pin must be connected to the struct that you wish to set.
+[2019.04.30-08.24.16:440][118]LogBlueprint: Warning: [Compiler BP_EditSpline] Node  Set members in <unknown struct> . The node won't be pruned as isolated one. The node is not pure, but it has no exec pin(s). Verify IsNodePure implementation in K2Node Set Fields in Struct.
+[2019.04.30-08.24.16:440][118]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Struct Ref  no longer exists on node  Set members in <unknown struct> . Please refresh node or break links to remove pin.
+[2019.04.30-08.24.16:440][118]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Struct Out  no longer exists on node  Set members in <unknown struct> . Please refresh node or break links to remove pin.
+[2019.04.30-08.24.16:440][118]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Point Tangent  no longer exists on node  Set members in <unknown struct> . Please refresh node or break links to remove pin.
+[2019.04.30-08.24.16:440][118]LogBlueprint: Error: [Compiler BP_EditSpline] No Struct in  Set members in <unknown struct>
+[2019.04.30-08.24.16:440][118]LogBlueprint: Error: [Compiler BP_EditSpline] The  Struct Ref  pin must be connected to the struct that you wish to set.
+[2019.04.30-08.24.16:442][118]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Array Element Spline Point Location  no longer exists on node  ForEachLoop . Please refresh node or break links to remove pin.
+[2019.04.30-08.24.16:442][118]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Array Element Spline Point Tangent  no longer exists on node  ForEachLoop . Please refresh node or break links to remove pin.
+[2019.04.30-08.24.16:442][118]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Array Element Spline Point Velocity  no longer exists on node  ForEachLoop . Please refresh node or break links to remove pin.
+[2019.04.30-08.24.16:442][118]LogBlueprint: Error: [Compiler BP_EditSpline] No structure in SubCategoryObject in pin  Array Element
+[2019.04.30-08.24.16:443][118]LogBlueprint: Error: [Compiler BP_EditSpline] No structure in SubCategoryObject in pin  New Item
+[2019.04.30-08.24.16:443][118]LogBlueprint: Error: [Compiler BP_EditSpline] No structure in SubCategoryObject in pin  Item
+[2019.04.30-08.24.16:444][118]LogBlueprint: Error: [Compiler BP_EditSpline] COMPILER ERROR: failed building connection with 'Object Reference is not compatible with Actor Object Reference.' at  Get (a copy) generated from expanding ForEachLoop
+[2019.04.30-08.24.16:444][118]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Location Handles  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2019.04.30-08.24.16:444][118]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Tangent Handles  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2019.04.30-08.24.16:445][118]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Point Location  no longer exists on node  Insert . Please refresh node or break links to remove pin.
+[2019.04.30-08.24.16:445][118]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Point Tangent  no longer exists on node  Insert . Please refresh node or break links to remove pin.
+[2019.04.30-08.24.16:445][118]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Item Spline Point Location  no longer exists on node  Set Array Elem . Please refresh node or break links to remove pin.
+[2019.04.30-08.24.16:445][118]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Item Spline Point Tangent  no longer exists on node  Set Array Elem . Please refresh node or break links to remove pin.
+[2019.04.30-08.24.16:445][118]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Item Spline Point Velocity  no longer exists on node  Set Array Elem . Please refresh node or break links to remove pin.
+[2019.04.30-08.24.16:445][118]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Item Spline Point Index  no longer exists on node  Set Array Elem . Please refresh node or break links to remove pin.
+[2019.04.30-08.24.16:445][118]LogBlueprint: Error: [Compiler BP_EditSpline] Could not find a function named "None" in 'BP_EditSpline'.
+Make sure 'BP_EditSpline' has been compiled for  ForEachLoop
+[2019.04.30-08.24.16:445][118]LogBlueprint: Error: [Compiler BP_EditSpline] Could not find a function named "None" in 'BP_EditSpline'.
+Make sure 'BP_EditSpline' has been compiled for  Insert
+[2019.04.30-08.24.16:445][118]LogBlueprint: Error: [Compiler BP_EditSpline] Could not find a function named "None" in 'BP_EditSpline'.
+Make sure 'BP_EditSpline' has been compiled for  Set Array Elem
+[2019.04.30-08.24.16:446][118]LogBlueprint: Error: [Compiler BP_EditSpline] No structure in SubCategoryObject in pin  Output
+[2019.04.30-08.24.16:446][118]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Point Location  no longer exists on node  Get (a copy) . Please refresh node or break links to remove pin.
+[2019.04.30-08.24.16:446][118]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Point Tangent  no longer exists on node  Get (a copy) . Please refresh node or break links to remove pin.
+[2019.04.30-08.24.16:446][118]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Point Velocity  no longer exists on node  Get (a copy) . Please refresh node or break links to remove pin.
+[2019.04.30-08.24.16:446][118]LogBlueprint: Error: [Compiler BP_EditSpline] Could not find a function named "None" in 'BP_EditSpline'.
+Make sure 'BP_EditSpline' has been compiled for  Get (a copy)
+[2019.04.30-08.24.16:446][118]LogBlueprint: Warning: [Compiler BP_EditSpline] Node  Set members in <unknown struct> . The node won't be pruned as isolated one. The node is not pure, but it has no exec pin(s). Verify IsNodePure implementation in K2Node Set Fields in Struct.
+[2019.04.30-08.24.16:447][118]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  <Unnamed>  no longer exists on node  Move Spline Point . Please refresh node or break links to remove pin.
+[2019.04.30-08.24.16:447][118]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  <Unnamed>  no longer exists on node  Move Spline Point . Please refresh node or break links to remove pin.
+[2019.04.30-08.24.16:447][118]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Target  no longer exists on node  Move Spline Point . Please refresh node or break links to remove pin.
+[2019.04.30-08.24.16:447][118]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Location  no longer exists on node  Move Spline Point . Please refresh node or break links to remove pin.
+[2019.04.30-08.24.16:447][118]LogBlueprint: Error: [Compiler BP_EditSpline] Could not find a function named "MoveSplinePoint" in 'BP_EditSpline'.
+Make sure 'BP_EditSpline' has been compiled for  Move Spline Point
+[2019.04.30-08.24.16:447][118]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  <Unnamed>  no longer exists on node  Move Tangent . Please refresh node or break links to remove pin.
+[2019.04.30-08.24.16:447][118]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Target  no longer exists on node  Move Tangent . Please refresh node or break links to remove pin.
+[2019.04.30-08.24.16:447][118]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Tangent  no longer exists on node  Move Tangent . Please refresh node or break links to remove pin.
+[2019.04.30-08.24.16:447][118]LogBlueprint: Error: [Compiler BP_EditSpline] Could not find a function named "MoveTangent" in 'BP_EditSpline'.
+Make sure 'BP_EditSpline' has been compiled for  Move Tangent
+[2019.04.30-08.24.16:447][118]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Location Handles  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2019.04.30-08.24.16:447][118]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Tangent Handles  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2019.04.30-08.24.16:447][118]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Struct Ref  no longer exists on node  Set members in <unknown struct> . Please refresh node or break links to remove pin.
+[2019.04.30-08.24.16:447][118]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Struct Out  no longer exists on node  Set members in <unknown struct> . Please refresh node or break links to remove pin.
+[2019.04.30-08.24.16:447][118]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Point Location  no longer exists on node  Set members in <unknown struct> . Please refresh node or break links to remove pin.
+[2019.04.30-08.24.16:447][118]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Point Tangent  no longer exists on node  Set members in <unknown struct> . Please refresh node or break links to remove pin.
+[2019.04.30-08.24.16:447][118]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Point Velocity  no longer exists on node  Set members in <unknown struct> . Please refresh node or break links to remove pin.
+[2019.04.30-08.24.16:447][118]LogBlueprint: Error: [Compiler BP_EditSpline] No Struct in  Set members in <unknown struct>
+[2019.04.30-08.24.16:447][118]LogBlueprint: Error: [Compiler BP_EditSpline] The  Struct Ref  pin must be connected to the struct that you wish to set.
+[2019.04.30-08.24.16:449][118]LogBlueprint: Warning: [Compiler BP_EditSpline] Node  Set members in <unknown struct> . The node won't be pruned as isolated one. The node is not pure, but it has no exec pin(s). Verify IsNodePure implementation in K2Node Set Fields in Struct.
+[2019.04.30-08.24.16:450][118]LogBlueprint: Error: [Compiler BP_EditSpline] COMPILER ERROR: failed building connection with 'Object Reference is not compatible with Actor Object Reference.' at  Get (a copy) generated from expanding ForEachLoop
+[2019.04.30-08.24.16:450][118]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Location Handles  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2019.04.30-08.24.16:450][118]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Tangent Handles  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2019.04.30-08.24.16:450][118]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Struct Ref  no longer exists on node  Set members in <unknown struct> . Please refresh node or break links to remove pin.
+[2019.04.30-08.24.16:450][118]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Struct Out  no longer exists on node  Set members in <unknown struct> . Please refresh node or break links to remove pin.
+[2019.04.30-08.24.16:450][118]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Point Index  no longer exists on node  Set members in <unknown struct> . Please refresh node or break links to remove pin.
+[2019.04.30-08.24.16:450][118]LogBlueprint: Error: [Compiler BP_EditSpline] No Struct in  Set members in <unknown struct>
+[2019.04.30-08.24.16:450][118]LogBlueprint: Error: [Compiler BP_EditSpline] The  Struct Ref  pin must be connected to the struct that you wish to set.
+[2019.04.30-08.24.16:453][118]LogBlueprint: Warning: [Compiler BP_EditSpline] [0013.39] Compile of BP_EditSpline failed. 59 Fatal Issue(s) 4 Warning(s) [in 26 ms] (/Game/blueprint/BP_EditSpline.BP_EditSpline)
+[2019.04.30-08.24.16:532][118]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/blueprint/BP_EditSpline.BP_EditSpline
+[2019.04.30-08.24.16:846][118]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 117 classes and 0 folders.
+[2019.04.30-08.24.17:393][118]LogSlate: Took 0.000134 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.04.30-08.24.17:523][119]LogSlate: Took 0.000135 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.04.30-08.24.25:376][947]BlueprintLog: New page: Compile BP_EditSpline
+[2019.04.30-08.24.25:438][947]LogBlueprint: Warning: [Compiler BP_EditSpline] Node  Set members in <unknown struct> . The node won't be pruned as isolated one. The node is not pure, but it has no exec pin(s). Verify IsNodePure implementation in K2Node Set Fields in Struct.
+[2019.04.30-08.24.25:438][947]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Struct Ref  no longer exists on node  Set members in <unknown struct> . Please refresh node or break links to remove pin.
+[2019.04.30-08.24.25:438][947]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Struct Out  no longer exists on node  Set members in <unknown struct> . Please refresh node or break links to remove pin.
+[2019.04.30-08.24.25:438][947]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Point Tangent  no longer exists on node  Set members in <unknown struct> . Please refresh node or break links to remove pin.
+[2019.04.30-08.24.25:438][947]LogBlueprint: Error: [Compiler BP_EditSpline] No Struct in  Set members in <unknown struct>
+[2019.04.30-08.24.25:438][947]LogBlueprint: Error: [Compiler BP_EditSpline] The  Struct Ref  pin must be connected to the struct that you wish to set.
+[2019.04.30-08.24.25:440][947]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Array Element Spline Point Location  no longer exists on node  ForEachLoop . Please refresh node or break links to remove pin.
+[2019.04.30-08.24.25:440][947]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Array Element Spline Point Tangent  no longer exists on node  ForEachLoop . Please refresh node or break links to remove pin.
+[2019.04.30-08.24.25:440][947]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Array Element Spline Point Velocity  no longer exists on node  ForEachLoop . Please refresh node or break links to remove pin.
+[2019.04.30-08.24.25:440][947]LogBlueprint: Error: [Compiler BP_EditSpline] No structure in SubCategoryObject in pin  Array Element
+[2019.04.30-08.24.25:441][947]LogBlueprint: Error: [Compiler BP_EditSpline] No structure in SubCategoryObject in pin  New Item
+[2019.04.30-08.24.25:441][947]LogBlueprint: Error: [Compiler BP_EditSpline] No structure in SubCategoryObject in pin  Item
+[2019.04.30-08.24.25:442][947]LogBlueprint: Error: [Compiler BP_EditSpline] COMPILER ERROR: failed building connection with 'Object Reference is not compatible with Actor Object Reference.' at  Get (a copy) generated from expanding ForEachLoop
+[2019.04.30-08.24.25:442][947]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Location Handles  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2019.04.30-08.24.25:442][947]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Tangent Handles  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2019.04.30-08.24.25:442][947]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Point Location  no longer exists on node  Insert . Please refresh node or break links to remove pin.
+[2019.04.30-08.24.25:442][947]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Point Tangent  no longer exists on node  Insert . Please refresh node or break links to remove pin.
+[2019.04.30-08.24.25:442][947]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Item Spline Point Location  no longer exists on node  Set Array Elem . Please refresh node or break links to remove pin.
+[2019.04.30-08.24.25:442][947]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Item Spline Point Tangent  no longer exists on node  Set Array Elem . Please refresh node or break links to remove pin.
+[2019.04.30-08.24.25:442][947]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Item Spline Point Velocity  no longer exists on node  Set Array Elem . Please refresh node or break links to remove pin.
+[2019.04.30-08.24.25:442][947]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Item Spline Point Index  no longer exists on node  Set Array Elem . Please refresh node or break links to remove pin.
+[2019.04.30-08.24.25:442][947]LogBlueprint: Error: [Compiler BP_EditSpline] Could not find a function named "None" in 'BP_EditSpline'.
+Make sure 'BP_EditSpline' has been compiled for  ForEachLoop
+[2019.04.30-08.24.25:443][947]LogBlueprint: Error: [Compiler BP_EditSpline] Could not find a function named "None" in 'BP_EditSpline'.
+Make sure 'BP_EditSpline' has been compiled for  Insert
+[2019.04.30-08.24.25:443][947]LogBlueprint: Error: [Compiler BP_EditSpline] Could not find a function named "None" in 'BP_EditSpline'.
+Make sure 'BP_EditSpline' has been compiled for  Set Array Elem
+[2019.04.30-08.24.25:443][947]LogBlueprint: Error: [Compiler BP_EditSpline] No structure in SubCategoryObject in pin  Output
+[2019.04.30-08.24.25:443][947]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Point Location  no longer exists on node  Get (a copy) . Please refresh node or break links to remove pin.
+[2019.04.30-08.24.25:443][947]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Point Tangent  no longer exists on node  Get (a copy) . Please refresh node or break links to remove pin.
+[2019.04.30-08.24.25:443][947]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Point Velocity  no longer exists on node  Get (a copy) . Please refresh node or break links to remove pin.
+[2019.04.30-08.24.25:443][947]LogBlueprint: Error: [Compiler BP_EditSpline] Could not find a function named "None" in 'BP_EditSpline'.
+Make sure 'BP_EditSpline' has been compiled for  Get (a copy)
+[2019.04.30-08.24.25:444][947]LogBlueprint: Warning: [Compiler BP_EditSpline] Node  Set members in <unknown struct> . The node won't be pruned as isolated one. The node is not pure, but it has no exec pin(s). Verify IsNodePure implementation in K2Node Set Fields in Struct.
+[2019.04.30-08.24.25:444][947]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  <Unnamed>  no longer exists on node  Move Spline Point . Please refresh node or break links to remove pin.
+[2019.04.30-08.24.25:444][947]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  <Unnamed>  no longer exists on node  Move Spline Point . Please refresh node or break links to remove pin.
+[2019.04.30-08.24.25:444][947]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Target  no longer exists on node  Move Spline Point . Please refresh node or break links to remove pin.
+[2019.04.30-08.24.25:444][947]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Location  no longer exists on node  Move Spline Point . Please refresh node or break links to remove pin.
+[2019.04.30-08.24.25:444][947]LogBlueprint: Error: [Compiler BP_EditSpline] Could not find a function named "MoveSplinePoint" in 'BP_EditSpline'.
+Make sure 'BP_EditSpline' has been compiled for  Move Spline Point
+[2019.04.30-08.24.25:444][947]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  <Unnamed>  no longer exists on node  Move Tangent . Please refresh node or break links to remove pin.
+[2019.04.30-08.24.25:444][947]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Target  no longer exists on node  Move Tangent . Please refresh node or break links to remove pin.
+[2019.04.30-08.24.25:444][947]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Tangent  no longer exists on node  Move Tangent . Please refresh node or break links to remove pin.
+[2019.04.30-08.24.25:444][947]LogBlueprint: Error: [Compiler BP_EditSpline] Could not find a function named "MoveTangent" in 'BP_EditSpline'.
+Make sure 'BP_EditSpline' has been compiled for  Move Tangent
+[2019.04.30-08.24.25:444][947]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Location Handles  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2019.04.30-08.24.25:444][947]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Tangent Handles  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2019.04.30-08.24.25:444][947]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Struct Ref  no longer exists on node  Set members in <unknown struct> . Please refresh node or break links to remove pin.
+[2019.04.30-08.24.25:444][947]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Struct Out  no longer exists on node  Set members in <unknown struct> . Please refresh node or break links to remove pin.
+[2019.04.30-08.24.25:444][947]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Point Location  no longer exists on node  Set members in <unknown struct> . Please refresh node or break links to remove pin.
+[2019.04.30-08.24.25:444][947]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Point Tangent  no longer exists on node  Set members in <unknown struct> . Please refresh node or break links to remove pin.
+[2019.04.30-08.24.25:444][947]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Point Velocity  no longer exists on node  Set members in <unknown struct> . Please refresh node or break links to remove pin.
+[2019.04.30-08.24.25:444][947]LogBlueprint: Error: [Compiler BP_EditSpline] No Struct in  Set members in <unknown struct>
+[2019.04.30-08.24.25:444][947]LogBlueprint: Error: [Compiler BP_EditSpline] The  Struct Ref  pin must be connected to the struct that you wish to set.
+[2019.04.30-08.24.25:447][947]LogBlueprint: Warning: [Compiler BP_EditSpline] Node  Set members in <unknown struct> . The node won't be pruned as isolated one. The node is not pure, but it has no exec pin(s). Verify IsNodePure implementation in K2Node Set Fields in Struct.
+[2019.04.30-08.24.25:447][947]LogBlueprint: Error: [Compiler BP_EditSpline] COMPILER ERROR: failed building connection with 'Object Reference is not compatible with Actor Object Reference.' at  Get (a copy) generated from expanding ForEachLoop
+[2019.04.30-08.24.25:447][947]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Location Handles  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2019.04.30-08.24.25:447][947]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Tangent Handles  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2019.04.30-08.24.25:447][947]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Struct Ref  no longer exists on node  Set members in <unknown struct> . Please refresh node or break links to remove pin.
+[2019.04.30-08.24.25:447][947]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Struct Out  no longer exists on node  Set members in <unknown struct> . Please refresh node or break links to remove pin.
+[2019.04.30-08.24.25:447][947]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Point Index  no longer exists on node  Set members in <unknown struct> . Please refresh node or break links to remove pin.
+[2019.04.30-08.24.25:447][947]LogBlueprint: Error: [Compiler BP_EditSpline] No Struct in  Set members in <unknown struct>
+[2019.04.30-08.24.25:447][947]LogBlueprint: Error: [Compiler BP_EditSpline] The  Struct Ref  pin must be connected to the struct that you wish to set.
+[2019.04.30-08.24.25:570][947]LogBlueprint: Warning: [Compiler BP_EditSpline] [0022.51] Compile of BP_EditSpline failed. 54 Fatal Issue(s) 3 Warning(s) [in 194 ms] (/Game/blueprint/BP_EditSpline.BP_EditSpline)
+[2019.04.30-08.24.27:388][144]LogSlate: Window 'BP_EditSpline*' being destroyed
+[2019.04.30-08.24.27:398][145]LogRenderer: Reallocating scene render targets to support 1572x812 Format 10 NumSamples 1 (Frame:955).
+[2019.04.30-08.24.31:033][473]LogSlate: Window 'Save Content' being destroyed
+[2019.04.30-08.24.31:080][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprint/BP_EditSpline" FILE="D:/UnrealProjects/EditSplineAtRuntime/Content/blueprint/BP_EditSpline.uasset" SILENT=true
+[2019.04.30-08.24.31:158][473]LogSavePackage: Moving 'D:/UnrealProjects/EditSplineAtRuntime/Saved/BP_EditSpline79F8B70A4DF34B1196A61BA93C8AC79D.tmp' to 'D:/UnrealProjects/EditSplineAtRuntime/Content/blueprint/BP_EditSpline.uasset'
+[2019.04.30-08.25.27:958][929]LogSlate: Took 0.000137 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.04.30-08.28.15:831][655]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/UiseeFlux/Blueprint/Spline/BP_EditSpline' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/CryptoKeys/', '/MeshEditor/', '/DatasmithContent/', '/VariantManagerContent/', '/MagicLeap/', '/MediaCompositing/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Memory/', or '/Temp/'
+[2019.04.30-08.28.15:831][655]LogLinker: Can't find file '/UiseeFlux/Blueprint/Spline/BP_EditSpline'
+[2019.04.30-08.28.15:831][655]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/UiseeFlux/Blueprint/Spline/BP_EditSpline' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/CryptoKeys/', '/MeshEditor/', '/DatasmithContent/', '/VariantManagerContent/', '/MagicLeap/', '/MediaCompositing/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Memory/', or '/Temp/'
+[2019.04.30-08.28.15:831][655]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/UiseeFlux/Blueprint/Spline/BP_EditSpline' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/CryptoKeys/', '/MeshEditor/', '/DatasmithContent/', '/VariantManagerContent/', '/MagicLeap/', '/MediaCompositing/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Memory/', or '/Temp/'
+[2019.04.30-08.28.15:831][655]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/UiseeFlux/Blueprint/Spline/BP_EditSpline' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/CryptoKeys/', '/MeshEditor/', '/DatasmithContent/', '/VariantManagerContent/', '/MagicLeap/', '/MediaCompositing/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Memory/', or '/Temp/'
+[2019.04.30-08.28.15:831][655]LogLinker: Can't find file '/UiseeFlux/Blueprint/Spline/BP_EditSpline'
+[2019.04.30-08.28.15:832][655]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/UiseeFlux/Blueprint/Spline/BP_EditSpline' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/CryptoKeys/', '/MeshEditor/', '/DatasmithContent/', '/VariantManagerContent/', '/MagicLeap/', '/MediaCompositing/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Memory/', or '/Temp/'
+[2019.04.30-08.28.15:832][655]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/UiseeFlux/Blueprint/Spline/BP_EditSpline' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/CryptoKeys/', '/MeshEditor/', '/DatasmithContent/', '/VariantManagerContent/', '/MagicLeap/', '/MediaCompositing/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Memory/', or '/Temp/'
+[2019.04.30-08.28.15:832][655]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/UiseeFlux/Blueprint/Spline/BP_EditSpline' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/CryptoKeys/', '/MeshEditor/', '/DatasmithContent/', '/VariantManagerContent/', '/MagicLeap/', '/MediaCompositing/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Memory/', or '/Temp/'
+[2019.04.30-08.28.15:832][655]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/UiseeFlux/Blueprint/Spline/BP_EditSpline' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/CryptoKeys/', '/MeshEditor/', '/DatasmithContent/', '/VariantManagerContent/', '/MagicLeap/', '/MediaCompositing/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Memory/', or '/Temp/'
+[2019.04.30-08.28.44:728][566]BlueprintLog: New page: Compile BP_EditSpline
+[2019.04.30-08.28.44:801][566]LogBlueprint: Warning: [Compiler BP_EditSpline] Node  Set members in <unknown struct> . The node won't be pruned as isolated one. The node is not pure, but it has no exec pin(s). Verify IsNodePure implementation in K2Node Set Fields in Struct.
+[2019.04.30-08.28.44:801][566]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Struct Ref  no longer exists on node  Set members in <unknown struct> . Please refresh node or break links to remove pin.
+[2019.04.30-08.28.44:801][566]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Struct Out  no longer exists on node  Set members in <unknown struct> . Please refresh node or break links to remove pin.
+[2019.04.30-08.28.44:801][566]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Point Tangent  no longer exists on node  Set members in <unknown struct> . Please refresh node or break links to remove pin.
+[2019.04.30-08.28.44:801][566]LogBlueprint: Error: [Compiler BP_EditSpline] No Struct in  Set members in <unknown struct>
+[2019.04.30-08.28.44:801][566]LogBlueprint: Error: [Compiler BP_EditSpline] The  Struct Ref  pin must be connected to the struct that you wish to set.
+[2019.04.30-08.28.44:803][566]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Array Element Spline Point Location  no longer exists on node  ForEachLoop . Please refresh node or break links to remove pin.
+[2019.04.30-08.28.44:803][566]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Array Element Spline Point Tangent  no longer exists on node  ForEachLoop . Please refresh node or break links to remove pin.
+[2019.04.30-08.28.44:803][566]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Array Element Spline Point Velocity  no longer exists on node  ForEachLoop . Please refresh node or break links to remove pin.
+[2019.04.30-08.28.44:803][566]LogBlueprint: Error: [Compiler BP_EditSpline] No structure in SubCategoryObject in pin  Array Element
+[2019.04.30-08.28.44:804][566]LogBlueprint: Error: [Compiler BP_EditSpline] No structure in SubCategoryObject in pin  New Item
+[2019.04.30-08.28.44:804][566]LogBlueprint: Error: [Compiler BP_EditSpline] No structure in SubCategoryObject in pin  Item
+[2019.04.30-08.28.44:805][566]LogBlueprint: Error: [Compiler BP_EditSpline] COMPILER ERROR: failed building connection with 'Object Reference is not compatible with Actor Object Reference.' at  Get (a copy) generated from expanding ForEachLoop
+[2019.04.30-08.28.44:805][566]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Location Handles  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2019.04.30-08.28.44:805][566]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Tangent Handles  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2019.04.30-08.28.44:805][566]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Point Location  no longer exists on node  Insert . Please refresh node or break links to remove pin.
+[2019.04.30-08.28.44:805][566]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Point Tangent  no longer exists on node  Insert . Please refresh node or break links to remove pin.
+[2019.04.30-08.28.44:805][566]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Item Spline Point Location  no longer exists on node  Set Array Elem . Please refresh node or break links to remove pin.
+[2019.04.30-08.28.44:805][566]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Item Spline Point Tangent  no longer exists on node  Set Array Elem . Please refresh node or break links to remove pin.
+[2019.04.30-08.28.44:805][566]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Item Spline Point Velocity  no longer exists on node  Set Array Elem . Please refresh node or break links to remove pin.
+[2019.04.30-08.28.44:805][566]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Item Spline Point Index  no longer exists on node  Set Array Elem . Please refresh node or break links to remove pin.
+[2019.04.30-08.28.44:805][566]LogBlueprint: Error: [Compiler BP_EditSpline] Could not find a function named "None" in 'BP_EditSpline'.
+Make sure 'BP_EditSpline' has been compiled for  ForEachLoop
+[2019.04.30-08.28.44:806][566]LogBlueprint: Error: [Compiler BP_EditSpline] Could not find a function named "None" in 'BP_EditSpline'.
+Make sure 'BP_EditSpline' has been compiled for  Insert
+[2019.04.30-08.28.44:806][566]LogBlueprint: Error: [Compiler BP_EditSpline] Could not find a function named "None" in 'BP_EditSpline'.
+Make sure 'BP_EditSpline' has been compiled for  Set Array Elem
+[2019.04.30-08.28.44:806][566]LogBlueprint: Error: [Compiler BP_EditSpline] No structure in SubCategoryObject in pin  Output
+[2019.04.30-08.28.44:806][566]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Point Location  no longer exists on node  Get (a copy) . Please refresh node or break links to remove pin.
+[2019.04.30-08.28.44:806][566]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Point Tangent  no longer exists on node  Get (a copy) . Please refresh node or break links to remove pin.
+[2019.04.30-08.28.44:806][566]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Point Velocity  no longer exists on node  Get (a copy) . Please refresh node or break links to remove pin.
+[2019.04.30-08.28.44:806][566]LogBlueprint: Error: [Compiler BP_EditSpline] Could not find a function named "None" in 'BP_EditSpline'.
+Make sure 'BP_EditSpline' has been compiled for  Get (a copy)
+[2019.04.30-08.28.44:807][566]LogBlueprint: Warning: [Compiler BP_EditSpline] Node  Set members in <unknown struct> . The node won't be pruned as isolated one. The node is not pure, but it has no exec pin(s). Verify IsNodePure implementation in K2Node Set Fields in Struct.
+[2019.04.30-08.28.44:807][566]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  <Unnamed>  no longer exists on node  Move Spline Point . Please refresh node or break links to remove pin.
+[2019.04.30-08.28.44:807][566]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  <Unnamed>  no longer exists on node  Move Spline Point . Please refresh node or break links to remove pin.
+[2019.04.30-08.28.44:807][566]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Target  no longer exists on node  Move Spline Point . Please refresh node or break links to remove pin.
+[2019.04.30-08.28.44:807][566]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Location  no longer exists on node  Move Spline Point . Please refresh node or break links to remove pin.
+[2019.04.30-08.28.44:807][566]LogBlueprint: Error: [Compiler BP_EditSpline] Could not find a function named "MoveSplinePoint" in 'BP_EditSpline'.
+Make sure 'BP_EditSpline' has been compiled for  Move Spline Point
+[2019.04.30-08.28.44:807][566]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  <Unnamed>  no longer exists on node  Move Tangent . Please refresh node or break links to remove pin.
+[2019.04.30-08.28.44:807][566]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Target  no longer exists on node  Move Tangent . Please refresh node or break links to remove pin.
+[2019.04.30-08.28.44:807][566]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Tangent  no longer exists on node  Move Tangent . Please refresh node or break links to remove pin.
+[2019.04.30-08.28.44:807][566]LogBlueprint: Error: [Compiler BP_EditSpline] Could not find a function named "MoveTangent" in 'BP_EditSpline'.
+Make sure 'BP_EditSpline' has been compiled for  Move Tangent
+[2019.04.30-08.28.44:807][566]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Location Handles  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2019.04.30-08.28.44:807][566]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Tangent Handles  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2019.04.30-08.28.44:807][566]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Struct Ref  no longer exists on node  Set members in <unknown struct> . Please refresh node or break links to remove pin.
+[2019.04.30-08.28.44:807][566]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Struct Out  no longer exists on node  Set members in <unknown struct> . Please refresh node or break links to remove pin.
+[2019.04.30-08.28.44:807][566]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Point Location  no longer exists on node  Set members in <unknown struct> . Please refresh node or break links to remove pin.
+[2019.04.30-08.28.44:808][566]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Point Tangent  no longer exists on node  Set members in <unknown struct> . Please refresh node or break links to remove pin.
+[2019.04.30-08.28.44:808][566]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Point Velocity  no longer exists on node  Set members in <unknown struct> . Please refresh node or break links to remove pin.
+[2019.04.30-08.28.44:808][566]LogBlueprint: Error: [Compiler BP_EditSpline] No Struct in  Set members in <unknown struct>
+[2019.04.30-08.28.44:808][566]LogBlueprint: Error: [Compiler BP_EditSpline] The  Struct Ref  pin must be connected to the struct that you wish to set.
+[2019.04.30-08.28.44:810][566]LogBlueprint: Warning: [Compiler BP_EditSpline] Node  Set members in <unknown struct> . The node won't be pruned as isolated one. The node is not pure, but it has no exec pin(s). Verify IsNodePure implementation in K2Node Set Fields in Struct.
+[2019.04.30-08.28.44:810][566]LogBlueprint: Error: [Compiler BP_EditSpline] COMPILER ERROR: failed building connection with 'Object Reference is not compatible with Actor Object Reference.' at  Get (a copy) generated from expanding ForEachLoop
+[2019.04.30-08.28.44:810][566]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Location Handles  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2019.04.30-08.28.44:810][566]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Tangent Handles  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2019.04.30-08.28.44:810][566]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Struct Ref  no longer exists on node  Set members in <unknown struct> . Please refresh node or break links to remove pin.
+[2019.04.30-08.28.44:810][566]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Struct Out  no longer exists on node  Set members in <unknown struct> . Please refresh node or break links to remove pin.
+[2019.04.30-08.28.44:811][566]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Point Index  no longer exists on node  Set members in <unknown struct> . Please refresh node or break links to remove pin.
+[2019.04.30-08.28.44:811][566]LogBlueprint: Error: [Compiler BP_EditSpline] No Struct in  Set members in <unknown struct>
+[2019.04.30-08.28.44:811][566]LogBlueprint: Error: [Compiler BP_EditSpline] The  Struct Ref  pin must be connected to the struct that you wish to set.
+[2019.04.30-08.28.44:933][566]LogBlueprint: Warning: [Compiler BP_EditSpline] [0281.87] Compile of BP_EditSpline failed. 54 Fatal Issue(s) 3 Warning(s) [in 205 ms] (/Game/blueprint/BP_EditSpline.BP_EditSpline)
+[2019.04.30-08.29.01:243][401]LogSlate: Window 'Save Content' being destroyed
+[2019.04.30-08.29.01:258][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprint/BP_EditSpline" FILE="D:/UnrealProjects/EditSplineAtRuntime/Content/blueprint/BP_EditSpline.uasset" SILENT=true
+[2019.04.30-08.29.01:340][401]LogSavePackage: Moving 'D:/UnrealProjects/EditSplineAtRuntime/Saved/BP_EditSpline12998C9D4933860A65AD96B1104EEF17.tmp' to 'D:/UnrealProjects/EditSplineAtRuntime/Content/blueprint/BP_EditSpline.uasset'
+[2019.04.30-08.29.42:113][636]BlueprintLog: New page: Compile BP_EditSpline
+[2019.04.30-08.29.42:177][636]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Array Element Spline Point Location  no longer exists on node  ForEachLoop . Please refresh node or break links to remove pin.
+[2019.04.30-08.29.42:177][636]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Array Element Spline Point Tangent  no longer exists on node  ForEachLoop . Please refresh node or break links to remove pin.
+[2019.04.30-08.29.42:178][636]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Array Element Spline Point Velocity  no longer exists on node  ForEachLoop . Please refresh node or break links to remove pin.
+[2019.04.30-08.29.42:178][636]LogBlueprint: Error: [Compiler BP_EditSpline] No structure in SubCategoryObject in pin  Array Element
+[2019.04.30-08.29.42:179][636]LogBlueprint: Error: [Compiler BP_EditSpline] No structure in SubCategoryObject in pin  New Item
+[2019.04.30-08.29.42:179][636]LogBlueprint: Error: [Compiler BP_EditSpline] No structure in SubCategoryObject in pin  Item
+[2019.04.30-08.29.42:179][636]LogBlueprint: Error: [Compiler BP_EditSpline] COMPILER ERROR: failed building connection with 'Object Reference is not compatible with Actor Object Reference.' at  Get (a copy) generated from expanding ForEachLoop
+[2019.04.30-08.29.42:179][636]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Location Handles  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2019.04.30-08.29.42:179][636]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Tangent Handles  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2019.04.30-08.29.42:179][636]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Point Location  no longer exists on node  Insert . Please refresh node or break links to remove pin.
+[2019.04.30-08.29.42:179][636]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Point Tangent  no longer exists on node  Insert . Please refresh node or break links to remove pin.
+[2019.04.30-08.29.42:179][636]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Item Spline Point Location  no longer exists on node  Set Array Elem . Please refresh node or break links to remove pin.
+[2019.04.30-08.29.42:179][636]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Item Spline Point Tangent  no longer exists on node  Set Array Elem . Please refresh node or break links to remove pin.
+[2019.04.30-08.29.42:179][636]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Item Spline Point Velocity  no longer exists on node  Set Array Elem . Please refresh node or break links to remove pin.
+[2019.04.30-08.29.42:180][636]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Item Spline Point Index  no longer exists on node  Set Array Elem . Please refresh node or break links to remove pin.
+[2019.04.30-08.29.42:180][636]LogBlueprint: Error: [Compiler BP_EditSpline] Could not find a function named "None" in 'BP_EditSpline'.
+Make sure 'BP_EditSpline' has been compiled for  ForEachLoop
+[2019.04.30-08.29.42:180][636]LogBlueprint: Error: [Compiler BP_EditSpline] Could not find a function named "None" in 'BP_EditSpline'.
+Make sure 'BP_EditSpline' has been compiled for  Insert
+[2019.04.30-08.29.42:180][636]LogBlueprint: Error: [Compiler BP_EditSpline] Could not find a function named "None" in 'BP_EditSpline'.
+Make sure 'BP_EditSpline' has been compiled for  Set Array Elem
+[2019.04.30-08.29.42:180][636]LogBlueprint: Error: [Compiler BP_EditSpline] No structure in SubCategoryObject in pin  Output
+[2019.04.30-08.29.42:180][636]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Point Location  no longer exists on node  Get (a copy) . Please refresh node or break links to remove pin.
+[2019.04.30-08.29.42:180][636]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Point Tangent  no longer exists on node  Get (a copy) . Please refresh node or break links to remove pin.
+[2019.04.30-08.29.42:181][636]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Point Velocity  no longer exists on node  Get (a copy) . Please refresh node or break links to remove pin.
+[2019.04.30-08.29.42:181][636]LogBlueprint: Error: [Compiler BP_EditSpline] Could not find a function named "None" in 'BP_EditSpline'.
+Make sure 'BP_EditSpline' has been compiled for  Get (a copy)
+[2019.04.30-08.29.42:181][636]LogBlueprint: Warning: [Compiler BP_EditSpline] Node  Set members in <unknown struct> . The node won't be pruned as isolated one. The node is not pure, but it has no exec pin(s). Verify IsNodePure implementation in K2Node Set Fields in Struct.
+[2019.04.30-08.29.42:181][636]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  <Unnamed>  no longer exists on node  Move Spline Point . Please refresh node or break links to remove pin.
+[2019.04.30-08.29.42:181][636]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  <Unnamed>  no longer exists on node  Move Spline Point . Please refresh node or break links to remove pin.
+[2019.04.30-08.29.42:181][636]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Target  no longer exists on node  Move Spline Point . Please refresh node or break links to remove pin.
+[2019.04.30-08.29.42:181][636]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Location  no longer exists on node  Move Spline Point . Please refresh node or break links to remove pin.
+[2019.04.30-08.29.42:181][636]LogBlueprint: Error: [Compiler BP_EditSpline] Could not find a function named "MoveSplinePoint" in 'BP_EditSpline'.
+Make sure 'BP_EditSpline' has been compiled for  Move Spline Point
+[2019.04.30-08.29.42:181][636]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  <Unnamed>  no longer exists on node  Move Tangent . Please refresh node or break links to remove pin.
+[2019.04.30-08.29.42:182][636]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Target  no longer exists on node  Move Tangent . Please refresh node or break links to remove pin.
+[2019.04.30-08.29.42:182][636]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Tangent  no longer exists on node  Move Tangent . Please refresh node or break links to remove pin.
+[2019.04.30-08.29.42:182][636]LogBlueprint: Error: [Compiler BP_EditSpline] Could not find a function named "MoveTangent" in 'BP_EditSpline'.
+Make sure 'BP_EditSpline' has been compiled for  Move Tangent
+[2019.04.30-08.29.42:182][636]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Location Handles  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2019.04.30-08.29.42:182][636]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Tangent Handles  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2019.04.30-08.29.42:182][636]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Struct Ref  no longer exists on node  Set members in <unknown struct> . Please refresh node or break links to remove pin.
+[2019.04.30-08.29.42:182][636]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Struct Out  no longer exists on node  Set members in <unknown struct> . Please refresh node or break links to remove pin.
+[2019.04.30-08.29.42:182][636]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Point Location  no longer exists on node  Set members in <unknown struct> . Please refresh node or break links to remove pin.
+[2019.04.30-08.29.42:182][636]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Point Tangent  no longer exists on node  Set members in <unknown struct> . Please refresh node or break links to remove pin.
+[2019.04.30-08.29.42:182][636]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Point Velocity  no longer exists on node  Set members in <unknown struct> . Please refresh node or break links to remove pin.
+[2019.04.30-08.29.42:182][636]LogBlueprint: Error: [Compiler BP_EditSpline] No Struct in  Set members in <unknown struct>
+[2019.04.30-08.29.42:182][636]LogBlueprint: Error: [Compiler BP_EditSpline] The  Struct Ref  pin must be connected to the struct that you wish to set.
+[2019.04.30-08.29.42:184][636]LogBlueprint: Warning: [Compiler BP_EditSpline] Node  Set members in <unknown struct> . The node won't be pruned as isolated one. The node is not pure, but it has no exec pin(s). Verify IsNodePure implementation in K2Node Set Fields in Struct.
+[2019.04.30-08.29.42:185][636]LogBlueprint: Error: [Compiler BP_EditSpline] COMPILER ERROR: failed building connection with 'Object Reference is not compatible with Actor Object Reference.' at  Get (a copy) generated from expanding ForEachLoop
+[2019.04.30-08.29.42:185][636]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Location Handles  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2019.04.30-08.29.42:185][636]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Tangent Handles  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2019.04.30-08.29.42:185][636]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Struct Ref  no longer exists on node  Set members in <unknown struct> . Please refresh node or break links to remove pin.
+[2019.04.30-08.29.42:185][636]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Struct Out  no longer exists on node  Set members in <unknown struct> . Please refresh node or break links to remove pin.
+[2019.04.30-08.29.42:185][636]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Point Index  no longer exists on node  Set members in <unknown struct> . Please refresh node or break links to remove pin.
+[2019.04.30-08.29.42:185][636]LogBlueprint: Error: [Compiler BP_EditSpline] No Struct in  Set members in <unknown struct>
+[2019.04.30-08.29.42:185][636]LogBlueprint: Error: [Compiler BP_EditSpline] The  Struct Ref  pin must be connected to the struct that you wish to set.
+[2019.04.30-08.29.42:304][636]LogBlueprint: Warning: [Compiler BP_EditSpline] [0339.24] Compile of BP_EditSpline failed. 49 Fatal Issue(s) 2 Warning(s) [in 191 ms] (/Game/blueprint/BP_EditSpline.BP_EditSpline)
+[2019.04.30-08.31.12:780][354]BlueprintLog: New page: Compile BP_EditSpline
+[2019.04.30-08.31.12:846][354]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Array Element Spline Point Location  no longer exists on node  ForEachLoop . Please refresh node or break links to remove pin.
+[2019.04.30-08.31.12:846][354]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Array Element Spline Point Tangent  no longer exists on node  ForEachLoop . Please refresh node or break links to remove pin.
+[2019.04.30-08.31.12:846][354]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Array Element Spline Point Velocity  no longer exists on node  ForEachLoop . Please refresh node or break links to remove pin.
+[2019.04.30-08.31.12:847][354]LogBlueprint: Error: [Compiler BP_EditSpline] No structure in SubCategoryObject in pin  Array Element
+[2019.04.30-08.31.12:848][354]LogBlueprint: Error: [Compiler BP_EditSpline] No structure in SubCategoryObject in pin  New Item
+[2019.04.30-08.31.12:848][354]LogBlueprint: Error: [Compiler BP_EditSpline] No structure in SubCategoryObject in pin  Item
+[2019.04.30-08.31.12:848][354]LogBlueprint: Error: [Compiler BP_EditSpline] COMPILER ERROR: failed building connection with 'Object Reference is not compatible with Actor Object Reference.' at  Get (a copy) generated from expanding ForEachLoop
+[2019.04.30-08.31.12:848][354]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Location Handles  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2019.04.30-08.31.12:848][354]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Tangent Handles  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2019.04.30-08.31.12:848][354]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Point Location  no longer exists on node  Insert . Please refresh node or break links to remove pin.
+[2019.04.30-08.31.12:848][354]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Point Tangent  no longer exists on node  Insert . Please refresh node or break links to remove pin.
+[2019.04.30-08.31.12:848][354]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Item Spline Point Location  no longer exists on node  Set Array Elem . Please refresh node or break links to remove pin.
+[2019.04.30-08.31.12:848][354]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Item Spline Point Tangent  no longer exists on node  Set Array Elem . Please refresh node or break links to remove pin.
+[2019.04.30-08.31.12:848][354]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Item Spline Point Velocity  no longer exists on node  Set Array Elem . Please refresh node or break links to remove pin.
+[2019.04.30-08.31.12:848][354]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Item Spline Point Index  no longer exists on node  Set Array Elem . Please refresh node or break links to remove pin.
+[2019.04.30-08.31.12:849][354]LogBlueprint: Error: [Compiler BP_EditSpline] Could not find a function named "None" in 'BP_EditSpline'.
+Make sure 'BP_EditSpline' has been compiled for  ForEachLoop
+[2019.04.30-08.31.12:849][354]LogBlueprint: Error: [Compiler BP_EditSpline] Could not find a function named "None" in 'BP_EditSpline'.
+Make sure 'BP_EditSpline' has been compiled for  Insert
+[2019.04.30-08.31.12:849][354]LogBlueprint: Error: [Compiler BP_EditSpline] Could not find a function named "None" in 'BP_EditSpline'.
+Make sure 'BP_EditSpline' has been compiled for  Set Array Elem
+[2019.04.30-08.31.12:849][354]LogBlueprint: Error: [Compiler BP_EditSpline] No structure in SubCategoryObject in pin  Output
+[2019.04.30-08.31.12:849][354]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Point Location  no longer exists on node  Get (a copy) . Please refresh node or break links to remove pin.
+[2019.04.30-08.31.12:849][354]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Point Tangent  no longer exists on node  Get (a copy) . Please refresh node or break links to remove pin.
+[2019.04.30-08.31.12:849][354]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Point Velocity  no longer exists on node  Get (a copy) . Please refresh node or break links to remove pin.
+[2019.04.30-08.31.12:850][354]LogBlueprint: Error: [Compiler BP_EditSpline] Could not find a function named "None" in 'BP_EditSpline'.
+Make sure 'BP_EditSpline' has been compiled for  Get (a copy)
+[2019.04.30-08.31.12:850][354]LogBlueprint: Warning: [Compiler BP_EditSpline] Node  Set members in <unknown struct> . The node won't be pruned as isolated one. The node is not pure, but it has no exec pin(s). Verify IsNodePure implementation in K2Node Set Fields in Struct.
+[2019.04.30-08.31.12:850][354]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  <Unnamed>  no longer exists on node  Move Spline Point . Please refresh node or break links to remove pin.
+[2019.04.30-08.31.12:850][354]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  <Unnamed>  no longer exists on node  Move Spline Point . Please refresh node or break links to remove pin.
+[2019.04.30-08.31.12:850][354]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Target  no longer exists on node  Move Spline Point . Please refresh node or break links to remove pin.
+[2019.04.30-08.31.12:850][354]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Location  no longer exists on node  Move Spline Point . Please refresh node or break links to remove pin.
+[2019.04.30-08.31.12:850][354]LogBlueprint: Error: [Compiler BP_EditSpline] Could not find a function named "MoveSplinePoint" in 'BP_EditSpline'.
+Make sure 'BP_EditSpline' has been compiled for  Move Spline Point
+[2019.04.30-08.31.12:850][354]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  <Unnamed>  no longer exists on node  Move Tangent . Please refresh node or break links to remove pin.
+[2019.04.30-08.31.12:850][354]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Target  no longer exists on node  Move Tangent . Please refresh node or break links to remove pin.
+[2019.04.30-08.31.12:850][354]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Tangent  no longer exists on node  Move Tangent . Please refresh node or break links to remove pin.
+[2019.04.30-08.31.12:850][354]LogBlueprint: Error: [Compiler BP_EditSpline] Could not find a function named "MoveTangent" in 'BP_EditSpline'.
+Make sure 'BP_EditSpline' has been compiled for  Move Tangent
+[2019.04.30-08.31.12:850][354]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Location Handles  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2019.04.30-08.31.12:851][354]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Tangent Handles  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2019.04.30-08.31.12:851][354]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Struct Ref  no longer exists on node  Set members in <unknown struct> . Please refresh node or break links to remove pin.
+[2019.04.30-08.31.12:851][354]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Struct Out  no longer exists on node  Set members in <unknown struct> . Please refresh node or break links to remove pin.
+[2019.04.30-08.31.12:851][354]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Point Location  no longer exists on node  Set members in <unknown struct> . Please refresh node or break links to remove pin.
+[2019.04.30-08.31.12:851][354]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Point Tangent  no longer exists on node  Set members in <unknown struct> . Please refresh node or break links to remove pin.
+[2019.04.30-08.31.12:851][354]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Point Velocity  no longer exists on node  Set members in <unknown struct> . Please refresh node or break links to remove pin.
+[2019.04.30-08.31.12:851][354]LogBlueprint: Error: [Compiler BP_EditSpline] No Struct in  Set members in <unknown struct>
+[2019.04.30-08.31.12:851][354]LogBlueprint: Error: [Compiler BP_EditSpline] The  Struct Ref  pin must be connected to the struct that you wish to set.
+[2019.04.30-08.31.12:853][354]LogBlueprint: Warning: [Compiler BP_EditSpline] Node  Set members in <unknown struct> . The node won't be pruned as isolated one. The node is not pure, but it has no exec pin(s). Verify IsNodePure implementation in K2Node Set Fields in Struct.
+[2019.04.30-08.31.12:854][354]LogBlueprint: Error: [Compiler BP_EditSpline] COMPILER ERROR: failed building connection with 'Object Reference is not compatible with Actor Object Reference.' at  Get (a copy) generated from expanding ForEachLoop
+[2019.04.30-08.31.12:854][354]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Location Handles  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2019.04.30-08.31.12:854][354]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Tangent Handles  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2019.04.30-08.31.12:854][354]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Struct Ref  no longer exists on node  Set members in <unknown struct> . Please refresh node or break links to remove pin.
+[2019.04.30-08.31.12:854][354]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Struct Out  no longer exists on node  Set members in <unknown struct> . Please refresh node or break links to remove pin.
+[2019.04.30-08.31.12:854][354]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Point Index  no longer exists on node  Set members in <unknown struct> . Please refresh node or break links to remove pin.
+[2019.04.30-08.31.12:854][354]LogBlueprint: Error: [Compiler BP_EditSpline] No Struct in  Set members in <unknown struct>
+[2019.04.30-08.31.12:854][354]LogBlueprint: Error: [Compiler BP_EditSpline] The  Struct Ref  pin must be connected to the struct that you wish to set.
+[2019.04.30-08.31.12:968][354]LogBlueprint: Warning: [Compiler BP_EditSpline] [0429.91] Compile of BP_EditSpline failed. 49 Fatal Issue(s) 2 Warning(s) [in 188 ms] (/Game/blueprint/BP_EditSpline.BP_EditSpline)
+[2019.04.30-08.31.58:783][213]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/UiseeFlux/Blueprint/Spline/BP_EditSpline' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/CryptoKeys/', '/MeshEditor/', '/DatasmithContent/', '/VariantManagerContent/', '/MagicLeap/', '/MediaCompositing/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Memory/', or '/Temp/'
+[2019.04.30-08.31.58:783][213]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/UiseeFlux/Blueprint/Spline/BP_EditSpline' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/CryptoKeys/', '/MeshEditor/', '/DatasmithContent/', '/VariantManagerContent/', '/MagicLeap/', '/MediaCompositing/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Memory/', or '/Temp/'
+[2019.04.30-08.31.58:783][213]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/UiseeFlux/Blueprint/Spline/BP_EditSpline' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/CryptoKeys/', '/MeshEditor/', '/DatasmithContent/', '/VariantManagerContent/', '/MagicLeap/', '/MediaCompositing/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Memory/', or '/Temp/'
+[2019.04.30-08.31.58:783][213]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/UiseeFlux/Blueprint/Spline/BP_EditSpline' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/CryptoKeys/', '/MeshEditor/', '/DatasmithContent/', '/VariantManagerContent/', '/MagicLeap/', '/MediaCompositing/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Memory/', or '/Temp/'
+[2019.04.30-08.31.58:784][213]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/UiseeFlux/Blueprint/Spline/BP_EditSpline' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/CryptoKeys/', '/MeshEditor/', '/DatasmithContent/', '/VariantManagerContent/', '/MagicLeap/', '/MediaCompositing/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Memory/', or '/Temp/'
+[2019.04.30-08.31.58:784][213]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '/UiseeFlux/Blueprint/Spline/BP_EditSpline' is not a standard unreal filename or a long path name. Reason: Path does not start with a valid root. Path must begin with: '/Engine/', '/Game/', '/Paper2D/', '/CryptoKeys/', '/MeshEditor/', '/DatasmithContent/', '/VariantManagerContent/', '/MagicLeap/', '/MediaCompositing/', '/OculusVR/', '/SteamVR/', '/Config/', '/Script/', '/Memory/', or '/Temp/'
+[2019.04.30-08.32.03:715][800]BlueprintLog: New page: Compile BP_EditSpline
+[2019.04.30-08.32.03:791][800]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Array Element Spline Point Location  no longer exists on node  ForEachLoop . Please refresh node or break links to remove pin.
+[2019.04.30-08.32.03:791][800]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Array Element Spline Point Tangent  no longer exists on node  ForEachLoop . Please refresh node or break links to remove pin.
+[2019.04.30-08.32.03:791][800]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Array Element Spline Point Velocity  no longer exists on node  ForEachLoop . Please refresh node or break links to remove pin.
+[2019.04.30-08.32.03:791][800]LogBlueprint: Error: [Compiler BP_EditSpline] No structure in SubCategoryObject in pin  Array Element
+[2019.04.30-08.32.03:792][800]LogBlueprint: Error: [Compiler BP_EditSpline] No structure in SubCategoryObject in pin  New Item
+[2019.04.30-08.32.03:792][800]LogBlueprint: Error: [Compiler BP_EditSpline] No structure in SubCategoryObject in pin  Item
+[2019.04.30-08.32.03:793][800]LogBlueprint: Error: [Compiler BP_EditSpline] COMPILER ERROR: failed building connection with 'Object Reference is not compatible with Actor Object Reference.' at  Get (a copy) generated from expanding ForEachLoop
+[2019.04.30-08.32.03:793][800]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Location Handles  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2019.04.30-08.32.03:793][800]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Tangent Handles  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2019.04.30-08.32.03:793][800]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Point Location  no longer exists on node  Insert . Please refresh node or break links to remove pin.
+[2019.04.30-08.32.03:793][800]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Point Tangent  no longer exists on node  Insert . Please refresh node or break links to remove pin.
+[2019.04.30-08.32.03:793][800]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Item Spline Point Location  no longer exists on node  Set Array Elem . Please refresh node or break links to remove pin.
+[2019.04.30-08.32.03:793][800]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Item Spline Point Tangent  no longer exists on node  Set Array Elem . Please refresh node or break links to remove pin.
+[2019.04.30-08.32.03:793][800]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Item Spline Point Velocity  no longer exists on node  Set Array Elem . Please refresh node or break links to remove pin.
+[2019.04.30-08.32.03:793][800]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Item Spline Point Index  no longer exists on node  Set Array Elem . Please refresh node or break links to remove pin.
+[2019.04.30-08.32.03:793][800]LogBlueprint: Error: [Compiler BP_EditSpline] Could not find a function named "None" in 'BP_EditSpline'.
+Make sure 'BP_EditSpline' has been compiled for  ForEachLoop
+[2019.04.30-08.32.03:794][800]LogBlueprint: Error: [Compiler BP_EditSpline] Could not find a function named "None" in 'BP_EditSpline'.
+Make sure 'BP_EditSpline' has been compiled for  Insert
+[2019.04.30-08.32.03:794][800]LogBlueprint: Error: [Compiler BP_EditSpline] Could not find a function named "None" in 'BP_EditSpline'.
+Make sure 'BP_EditSpline' has been compiled for  Set Array Elem
+[2019.04.30-08.32.03:794][800]LogBlueprint: Error: [Compiler BP_EditSpline] No structure in SubCategoryObject in pin  Output
+[2019.04.30-08.32.03:794][800]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Point Location  no longer exists on node  Get (a copy) . Please refresh node or break links to remove pin.
+[2019.04.30-08.32.03:794][800]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Point Tangent  no longer exists on node  Get (a copy) . Please refresh node or break links to remove pin.
+[2019.04.30-08.32.03:794][800]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Point Velocity  no longer exists on node  Get (a copy) . Please refresh node or break links to remove pin.
+[2019.04.30-08.32.03:794][800]LogBlueprint: Error: [Compiler BP_EditSpline] Could not find a function named "None" in 'BP_EditSpline'.
+Make sure 'BP_EditSpline' has been compiled for  Get (a copy)
+[2019.04.30-08.32.03:795][800]LogBlueprint: Warning: [Compiler BP_EditSpline] Node  Set members in <unknown struct> . The node won't be pruned as isolated one. The node is not pure, but it has no exec pin(s). Verify IsNodePure implementation in K2Node Set Fields in Struct.
+[2019.04.30-08.32.03:795][800]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  <Unnamed>  no longer exists on node  Move Spline Point . Please refresh node or break links to remove pin.
+[2019.04.30-08.32.03:795][800]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  <Unnamed>  no longer exists on node  Move Spline Point . Please refresh node or break links to remove pin.
+[2019.04.30-08.32.03:795][800]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Target  no longer exists on node  Move Spline Point . Please refresh node or break links to remove pin.
+[2019.04.30-08.32.03:795][800]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Location  no longer exists on node  Move Spline Point . Please refresh node or break links to remove pin.
+[2019.04.30-08.32.03:795][800]LogBlueprint: Error: [Compiler BP_EditSpline] Could not find a function named "MoveSplinePoint" in 'BP_EditSpline'.
+Make sure 'BP_EditSpline' has been compiled for  Move Spline Point
+[2019.04.30-08.32.03:795][800]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  <Unnamed>  no longer exists on node  Move Tangent . Please refresh node or break links to remove pin.
+[2019.04.30-08.32.03:795][800]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Target  no longer exists on node  Move Tangent . Please refresh node or break links to remove pin.
+[2019.04.30-08.32.03:795][800]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Tangent  no longer exists on node  Move Tangent . Please refresh node or break links to remove pin.
+[2019.04.30-08.32.03:795][800]LogBlueprint: Error: [Compiler BP_EditSpline] Could not find a function named "MoveTangent" in 'BP_EditSpline'.
+Make sure 'BP_EditSpline' has been compiled for  Move Tangent
+[2019.04.30-08.32.03:795][800]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Location Handles  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2019.04.30-08.32.03:795][800]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Tangent Handles  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2019.04.30-08.32.03:795][800]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Struct Ref  no longer exists on node  Set members in <unknown struct> . Please refresh node or break links to remove pin.
+[2019.04.30-08.32.03:795][800]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Struct Out  no longer exists on node  Set members in <unknown struct> . Please refresh node or break links to remove pin.
+[2019.04.30-08.32.03:795][800]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Point Location  no longer exists on node  Set members in <unknown struct> . Please refresh node or break links to remove pin.
+[2019.04.30-08.32.03:795][800]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Point Tangent  no longer exists on node  Set members in <unknown struct> . Please refresh node or break links to remove pin.
+[2019.04.30-08.32.03:796][800]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Point Velocity  no longer exists on node  Set members in <unknown struct> . Please refresh node or break links to remove pin.
+[2019.04.30-08.32.03:796][800]LogBlueprint: Error: [Compiler BP_EditSpline] No Struct in  Set members in <unknown struct>
+[2019.04.30-08.32.03:796][800]LogBlueprint: Error: [Compiler BP_EditSpline] The  Struct Ref  pin must be connected to the struct that you wish to set.
+[2019.04.30-08.32.03:798][800]LogBlueprint: Warning: [Compiler BP_EditSpline] Node  Set members in <unknown struct> . The node won't be pruned as isolated one. The node is not pure, but it has no exec pin(s). Verify IsNodePure implementation in K2Node Set Fields in Struct.
+[2019.04.30-08.32.03:798][800]LogBlueprint: Error: [Compiler BP_EditSpline] COMPILER ERROR: failed building connection with 'Object Reference is not compatible with Actor Object Reference.' at  Get (a copy) generated from expanding ForEachLoop
+[2019.04.30-08.32.03:798][800]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Location Handles  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2019.04.30-08.32.03:798][800]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Tangent Handles  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2019.04.30-08.32.03:798][800]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Struct Ref  no longer exists on node  Set members in <unknown struct> . Please refresh node or break links to remove pin.
+[2019.04.30-08.32.03:798][800]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Struct Out  no longer exists on node  Set members in <unknown struct> . Please refresh node or break links to remove pin.
+[2019.04.30-08.32.03:799][800]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Point Index  no longer exists on node  Set members in <unknown struct> . Please refresh node or break links to remove pin.
+[2019.04.30-08.32.03:799][800]LogBlueprint: Error: [Compiler BP_EditSpline] No Struct in  Set members in <unknown struct>
+[2019.04.30-08.32.03:799][800]LogBlueprint: Error: [Compiler BP_EditSpline] The  Struct Ref  pin must be connected to the struct that you wish to set.
+[2019.04.30-08.32.03:802][800]LogBlueprint: Warning: [Compiler BP_EditSpline] Could not find a variable named "TemTangent" in 'BP_EditSpline_C'.
+Make sure 'BP_EditSpline_C' has been compiled for  Get TemTangent
+[2019.04.30-08.32.03:804][800]LogBlueprint: Error: [Compiler BP_EditSpline] The property associated with  Tem Tangent  could not be found in '/Game/blueprint/BP_EditSpline.BP_EditSpline_C'
+[2019.04.30-08.32.03:923][800]LogBlueprint: Warning: [Compiler BP_EditSpline] [0480.86] Compile of BP_EditSpline failed. 50 Fatal Issue(s) 3 Warning(s) [in 208 ms] (/Game/blueprint/BP_EditSpline.BP_EditSpline)
+[2019.04.30-08.32.10:450][463]LogSlate: Window 'Save Content' being destroyed
+[2019.04.30-08.32.10:466][463]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprint/BP_EditSpline" FILE="D:/UnrealProjects/EditSplineAtRuntime/Content/blueprint/BP_EditSpline.uasset" SILENT=true
+[2019.04.30-08.32.10:563][463]LogSavePackage: Moving 'D:/UnrealProjects/EditSplineAtRuntime/Saved/BP_EditSpline3AF335D34C340B24E0A501B962709482.tmp' to 'D:/UnrealProjects/EditSplineAtRuntime/Content/blueprint/BP_EditSpline.uasset'
+[2019.04.30-08.35.25:579][936]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.025
+[2019.04.30-08.35.25:580][936]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/blueprint/BP_EditSpline] ([1] browsable assets)...
+[2019.04.30-08.35.25:580][936]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprint/BP_EditSpline]
+[2019.04.30-08.35.25:580][936]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprint/BP_EditSpline" FILE="D:/UnrealProjects/EditSplineAtRuntime/Saved/Autosaves/Game/blueprint/BP_EditSpline_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.04.30-08.35.25:676][936]LogSavePackage: Moving 'D:/UnrealProjects/EditSplineAtRuntime/Saved/BP_EditSpline_Auto14089FA124D92EBE79AD542AAF988514B.tmp' to 'D:/UnrealProjects/EditSplineAtRuntime/Saved/Autosaves/Game/blueprint/BP_EditSpline_Auto1.uasset'
+[2019.04.30-08.35.25:677][936]LogFileHelpers: Auto-saving content packages took 0.098
+[2019.04.30-08.36.02:150][679]LogSlate: Window 'Change Variable Type' being destroyed
+[2019.04.30-08.36.04:307][926]LogSlate: Window 'Find in Blueprints' being destroyed
+[2019.04.30-08.36.04:313][926]LogSlate: Window 'Find in Blueprints' being destroyed
+[2019.04.30-08.36.57:597][ 40]LogSlate: Window 'Change Variable Type' being destroyed
+[2019.04.30-08.36.58:941][193]LogSlate: Window 'Find in Blueprints' being destroyed
+[2019.04.30-08.36.58:946][193]LogSlate: Window 'Find in Blueprints' being destroyed
+[2019.04.30-08.37.22:208][273]BlueprintLog: New page: Compile BP_EditSpline
+[2019.04.30-08.37.22:286][273]LogBlueprint: Error: [Compiler BP_EditSpline] No structure in SubCategoryObject in pin  Output
+[2019.04.30-08.37.22:286][273]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Point Location  no longer exists on node  Get (a copy) . Please refresh node or break links to remove pin.
+[2019.04.30-08.37.22:286][273]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Point Tangent  no longer exists on node  Get (a copy) . Please refresh node or break links to remove pin.
+[2019.04.30-08.37.22:287][273]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Point Velocity  no longer exists on node  Get (a copy) . Please refresh node or break links to remove pin.
+[2019.04.30-08.37.22:287][273]LogBlueprint: Error: [Compiler BP_EditSpline] Could not find a function named "None" in 'BP_EditSpline'.
+Make sure 'BP_EditSpline' has been compiled for  Get (a copy)
+[2019.04.30-08.37.22:287][273]LogBlueprint: Warning: [Compiler BP_EditSpline] Node  Set members in <unknown struct> . The node won't be pruned as isolated one. The node is not pure, but it has no exec pin(s). Verify IsNodePure implementation in K2Node Set Fields in Struct.
+[2019.04.30-08.37.22:287][273]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  <Unnamed>  no longer exists on node  Move Spline Point . Please refresh node or break links to remove pin.
+[2019.04.30-08.37.22:287][273]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  <Unnamed>  no longer exists on node  Move Spline Point . Please refresh node or break links to remove pin.
+[2019.04.30-08.37.22:287][273]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Target  no longer exists on node  Move Spline Point . Please refresh node or break links to remove pin.
+[2019.04.30-08.37.22:287][273]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Location  no longer exists on node  Move Spline Point . Please refresh node or break links to remove pin.
+[2019.04.30-08.37.22:287][273]LogBlueprint: Error: [Compiler BP_EditSpline] Could not find a function named "MoveSplinePoint" in 'BP_EditSpline'.
+Make sure 'BP_EditSpline' has been compiled for  Move Spline Point
+[2019.04.30-08.37.22:287][273]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  <Unnamed>  no longer exists on node  Move Tangent . Please refresh node or break links to remove pin.
+[2019.04.30-08.37.22:287][273]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Target  no longer exists on node  Move Tangent . Please refresh node or break links to remove pin.
+[2019.04.30-08.37.22:287][273]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Tangent  no longer exists on node  Move Tangent . Please refresh node or break links to remove pin.
+[2019.04.30-08.37.22:288][273]LogBlueprint: Error: [Compiler BP_EditSpline] Could not find a function named "MoveTangent" in 'BP_EditSpline'.
+Make sure 'BP_EditSpline' has been compiled for  Move Tangent
+[2019.04.30-08.37.22:288][273]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Location Handles  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2019.04.30-08.37.22:288][273]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Tangent Handles  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2019.04.30-08.37.22:288][273]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Struct Ref  no longer exists on node  Set members in <unknown struct> . Please refresh node or break links to remove pin.
+[2019.04.30-08.37.22:288][273]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Struct Out  no longer exists on node  Set members in <unknown struct> . Please refresh node or break links to remove pin.
+[2019.04.30-08.37.22:288][273]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Point Location  no longer exists on node  Set members in <unknown struct> . Please refresh node or break links to remove pin.
+[2019.04.30-08.37.22:288][273]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Point Tangent  no longer exists on node  Set members in <unknown struct> . Please refresh node or break links to remove pin.
+[2019.04.30-08.37.22:288][273]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Point Velocity  no longer exists on node  Set members in <unknown struct> . Please refresh node or break links to remove pin.
+[2019.04.30-08.37.22:288][273]LogBlueprint: Error: [Compiler BP_EditSpline] No Struct in  Set members in <unknown struct>
+[2019.04.30-08.37.22:288][273]LogBlueprint: Error: [Compiler BP_EditSpline] The  Struct Ref  pin must be connected to the struct that you wish to set.
+[2019.04.30-08.37.22:290][273]LogBlueprint: Warning: [Compiler BP_EditSpline] Node  Set members in <unknown struct> . The node won't be pruned as isolated one. The node is not pure, but it has no exec pin(s). Verify IsNodePure implementation in K2Node Set Fields in Struct.
+[2019.04.30-08.37.22:291][273]LogBlueprint: Error: [Compiler BP_EditSpline] COMPILER ERROR: failed building connection with 'Object Reference is not compatible with Actor Object Reference.' at  Get (a copy) generated from expanding ForEachLoop
+[2019.04.30-08.37.22:291][273]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Location Handles  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2019.04.30-08.37.22:291][273]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Tangent Handles  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2019.04.30-08.37.22:291][273]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Struct Ref  no longer exists on node  Set members in <unknown struct> . Please refresh node or break links to remove pin.
+[2019.04.30-08.37.22:291][273]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Struct Out  no longer exists on node  Set members in <unknown struct> . Please refresh node or break links to remove pin.
+[2019.04.30-08.37.22:291][273]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Point Index  no longer exists on node  Set members in <unknown struct> . Please refresh node or break links to remove pin.
+[2019.04.30-08.37.22:291][273]LogBlueprint: Error: [Compiler BP_EditSpline] No Struct in  Set members in <unknown struct>
+[2019.04.30-08.37.22:291][273]LogBlueprint: Error: [Compiler BP_EditSpline] The  Struct Ref  pin must be connected to the struct that you wish to set.
+[2019.04.30-08.37.22:294][273]LogBlueprint: Warning: [Compiler BP_EditSpline] Could not find a variable named "TemTangent" in 'BP_EditSpline_C'.
+Make sure 'BP_EditSpline_C' has been compiled for  Get TemTangent
+[2019.04.30-08.37.22:296][273]LogBlueprint: Error: [Compiler BP_EditSpline] The property associated with  Tem Tangent  could not be found in '/Game/blueprint/BP_EditSpline.BP_EditSpline_C'
+[2019.04.30-08.37.22:417][273]LogBlueprint: Warning: [Compiler BP_EditSpline] [0799.36] Compile of BP_EditSpline failed. 32 Fatal Issue(s) 3 Warning(s) [in 208 ms] (/Game/blueprint/BP_EditSpline.BP_EditSpline)
+[2019.04.30-08.38.11:461][825]BlueprintLog: New page: Compile BP_EditSpline
+[2019.04.30-08.38.11:540][825]LogBlueprint: Warning: [Compiler BP_EditSpline] Node  Set members in <unknown struct> . The node won't be pruned as isolated one. The node is not pure, but it has no exec pin(s). Verify IsNodePure implementation in K2Node Set Fields in Struct.
+[2019.04.30-08.38.11:540][825]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  <Unnamed>  no longer exists on node  Move Spline Point . Please refresh node or break links to remove pin.
+[2019.04.30-08.38.11:540][825]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  <Unnamed>  no longer exists on node  Move Spline Point . Please refresh node or break links to remove pin.
+[2019.04.30-08.38.11:540][825]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Target  no longer exists on node  Move Spline Point . Please refresh node or break links to remove pin.
+[2019.04.30-08.38.11:540][825]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Location  no longer exists on node  Move Spline Point . Please refresh node or break links to remove pin.
+[2019.04.30-08.38.11:540][825]LogBlueprint: Error: [Compiler BP_EditSpline] Could not find a function named "MoveSplinePoint" in 'BP_EditSpline'.
+Make sure 'BP_EditSpline' has been compiled for  Move Spline Point
+[2019.04.30-08.38.11:540][825]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  <Unnamed>  no longer exists on node  Move Tangent . Please refresh node or break links to remove pin.
+[2019.04.30-08.38.11:540][825]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Target  no longer exists on node  Move Tangent . Please refresh node or break links to remove pin.
+[2019.04.30-08.38.11:540][825]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Tangent  no longer exists on node  Move Tangent . Please refresh node or break links to remove pin.
+[2019.04.30-08.38.11:540][825]LogBlueprint: Error: [Compiler BP_EditSpline] Could not find a function named "MoveTangent" in 'BP_EditSpline'.
+Make sure 'BP_EditSpline' has been compiled for  Move Tangent
+[2019.04.30-08.38.11:540][825]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Location Handles  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2019.04.30-08.38.11:540][825]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Tangent Handles  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2019.04.30-08.38.11:541][825]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Struct Ref  no longer exists on node  Set members in <unknown struct> . Please refresh node or break links to remove pin.
+[2019.04.30-08.38.11:541][825]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Struct Out  no longer exists on node  Set members in <unknown struct> . Please refresh node or break links to remove pin.
+[2019.04.30-08.38.11:541][825]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Point Location  no longer exists on node  Set members in <unknown struct> . Please refresh node or break links to remove pin.
+[2019.04.30-08.38.11:541][825]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Point Tangent  no longer exists on node  Set members in <unknown struct> . Please refresh node or break links to remove pin.
+[2019.04.30-08.38.11:541][825]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Point Velocity  no longer exists on node  Set members in <unknown struct> . Please refresh node or break links to remove pin.
+[2019.04.30-08.38.11:541][825]LogBlueprint: Error: [Compiler BP_EditSpline] No Struct in  Set members in <unknown struct>
+[2019.04.30-08.38.11:541][825]LogBlueprint: Error: [Compiler BP_EditSpline] The  Struct Ref  pin must be connected to the struct that you wish to set.
+[2019.04.30-08.38.11:543][825]LogBlueprint: Warning: [Compiler BP_EditSpline] Node  Set members in <unknown struct> . The node won't be pruned as isolated one. The node is not pure, but it has no exec pin(s). Verify IsNodePure implementation in K2Node Set Fields in Struct.
+[2019.04.30-08.38.11:543][825]LogBlueprint: Error: [Compiler BP_EditSpline] COMPILER ERROR: failed building connection with 'Object Reference is not compatible with Actor Object Reference.' at  Get (a copy) generated from expanding ForEachLoop
+[2019.04.30-08.38.11:544][825]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Location Handles  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2019.04.30-08.38.11:544][825]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Tangent Handles  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2019.04.30-08.38.11:544][825]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Struct Ref  no longer exists on node  Set members in <unknown struct> . Please refresh node or break links to remove pin.
+[2019.04.30-08.38.11:544][825]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Struct Out  no longer exists on node  Set members in <unknown struct> . Please refresh node or break links to remove pin.
+[2019.04.30-08.38.11:544][825]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Point Index  no longer exists on node  Set members in <unknown struct> . Please refresh node or break links to remove pin.
+[2019.04.30-08.38.11:544][825]LogBlueprint: Error: [Compiler BP_EditSpline] No Struct in  Set members in <unknown struct>
+[2019.04.30-08.38.11:544][825]LogBlueprint: Error: [Compiler BP_EditSpline] The  Struct Ref  pin must be connected to the struct that you wish to set.
+[2019.04.30-08.38.11:547][825]LogBlueprint: Warning: [Compiler BP_EditSpline] Could not find a variable named "TemTangent" in 'BP_EditSpline_C'.
+Make sure 'BP_EditSpline_C' has been compiled for  Get TemTangent
+[2019.04.30-08.38.11:549][825]LogBlueprint: Error: [Compiler BP_EditSpline] The property associated with  Tem Tangent  could not be found in '/Game/blueprint/BP_EditSpline.BP_EditSpline_C'
+[2019.04.30-08.38.11:671][825]LogBlueprint: Warning: [Compiler BP_EditSpline] [0848.61] Compile of BP_EditSpline failed. 27 Fatal Issue(s) 3 Warning(s) [in 209 ms] (/Game/blueprint/BP_EditSpline.BP_EditSpline)
+[2019.04.30-08.39.30:625][858]BlueprintLog: New page: Compile BP_EditSpline
+[2019.04.30-08.39.30:703][858]LogBlueprint: Warning: [Compiler BP_EditSpline] Node  Set members in <unknown struct> . The node won't be pruned as isolated one. The node is not pure, but it has no exec pin(s). Verify IsNodePure implementation in K2Node Set Fields in Struct.
+[2019.04.30-08.39.30:703][858]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Struct Ref  no longer exists on node  Set members in <unknown struct> . Please refresh node or break links to remove pin.
+[2019.04.30-08.39.30:703][858]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Struct Out  no longer exists on node  Set members in <unknown struct> . Please refresh node or break links to remove pin.
+[2019.04.30-08.39.30:703][858]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Point Location  no longer exists on node  Set members in <unknown struct> . Please refresh node or break links to remove pin.
+[2019.04.30-08.39.30:703][858]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Point Tangent  no longer exists on node  Set members in <unknown struct> . Please refresh node or break links to remove pin.
+[2019.04.30-08.39.30:703][858]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Point Velocity  no longer exists on node  Set members in <unknown struct> . Please refresh node or break links to remove pin.
+[2019.04.30-08.39.30:703][858]LogBlueprint: Error: [Compiler BP_EditSpline] No Struct in  Set members in <unknown struct>
+[2019.04.30-08.39.30:703][858]LogBlueprint: Error: [Compiler BP_EditSpline] The  Struct Ref  pin must be connected to the struct that you wish to set.
+[2019.04.30-08.39.30:705][858]LogBlueprint: Warning: [Compiler BP_EditSpline] Node  Set members in <unknown struct> . The node won't be pruned as isolated one. The node is not pure, but it has no exec pin(s). Verify IsNodePure implementation in K2Node Set Fields in Struct.
+[2019.04.30-08.39.30:706][858]LogBlueprint: Error: [Compiler BP_EditSpline] COMPILER ERROR: failed building connection with 'Object Reference is not compatible with Actor Object Reference.' at  Get (a copy) generated from expanding ForEachLoop
+[2019.04.30-08.39.30:706][858]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Location Handles  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2019.04.30-08.39.30:706][858]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Tangent Handles  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2019.04.30-08.39.30:706][858]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Struct Ref  no longer exists on node  Set members in <unknown struct> . Please refresh node or break links to remove pin.
+[2019.04.30-08.39.30:706][858]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Struct Out  no longer exists on node  Set members in <unknown struct> . Please refresh node or break links to remove pin.
+[2019.04.30-08.39.30:706][858]LogBlueprint: Error: [Compiler BP_EditSpline] In use pin  Spline Point Index  no longer exists on node  Set members in <unknown struct> . Please refresh node or break links to remove pin.
+[2019.04.30-08.39.30:706][858]LogBlueprint: Error: [Compiler BP_EditSpline] No Struct in  Set members in <unknown struct>
+[2019.04.30-08.39.30:706][858]LogBlueprint: Error: [Compiler BP_EditSpline] The  Struct Ref  pin must be connected to the struct that you wish to set.
+[2019.04.30-08.39.30:709][858]LogBlueprint: Warning: [Compiler BP_EditSpline] Could not find a variable named "TemTangent" in 'BP_EditSpline_C'.
+Make sure 'BP_EditSpline_C' has been compiled for  Get TemTangent
+[2019.04.30-08.39.30:712][858]LogBlueprint: Error: [Compiler BP_EditSpline] The property associated with  Tem Tangent  could not be found in '/Game/blueprint/BP_EditSpline.BP_EditSpline_C'
+[2019.04.30-08.39.30:831][858]LogBlueprint: Warning: [Compiler BP_EditSpline] [0927.77] Compile of BP_EditSpline failed. 16 Fatal Issue(s) 3 Warning(s) [in 205 ms] (/Game/blueprint/BP_EditSpline.BP_EditSpline)
+[2019.04.30-08.39.33:614][ 92]LogSlate: Window 'Save Content' being destroyed
+[2019.04.30-08.39.33:630][ 92]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprint/BP_EditSpline" FILE="D:/UnrealProjects/EditSplineAtRuntime/Content/blueprint/BP_EditSpline.uasset" SILENT=true
+[2019.04.30-08.39.33:724][ 92]LogSavePackage: Moving 'D:/UnrealProjects/EditSplineAtRuntime/Saved/BP_EditSpline07E53A5E4D5D66B7A182638B6921F66F.tmp' to 'D:/UnrealProjects/EditSplineAtRuntime/Content/blueprint/BP_EditSpline.uasset'
+[2019.04.30-08.39.35:769][335]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.04.30-08.39.35:769][335]LogWindows: Windows GetLastError: 操作成功完成。 (0)
